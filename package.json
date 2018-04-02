@@ -1,8 +1,8 @@
 {
-  "name": "natailini",
+  "name": "sibsfinx.github.io",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:sibsfinx/natailini.git",
+  "repository": "git@github.com:sibsfinx/sibsfinx.github.io.git",
   "author": "Alexander Mescheryakov <sibsfinx@ya.ru>",
   "license": "MIT",
   "scripts": {

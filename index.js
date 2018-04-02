@@ -8,7 +8,7 @@ import cheerio from 'cheerio';
 const script = '<script>document.addEventListener("DOMContentLoaded", function(event) {console.log("DOM fully loaded and parsed");});</script>';
 
 const config = {
-  urls: ['http://natailini-com.webflow.io/'],
+  urls: ['http://octobear.webflow.io/'],
   directory: 'webflow/',
   webflowBadgeClass: '.w-webflow-badge'
 }
