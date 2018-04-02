@@ -8,9 +8,9 @@
   "scripts": {
     "start": "babel-node index.js",
     "cleanup": "./cleanup",
-    "pre-deploy": "yarn run cleanup && rm -rf index.js node_modules package.json yarn.lock .babelrc .nvmrc && cp -r webflow/* . && rm -rf webflow",
     "copy": "cp -r public/{,**}/* .",
-    "deploy": "git branch -D gh-pages && git checkout -b gh-pages && yarn pre-deploy && yarn copy && git add -A && git commit -m 'upd' && git push -f && git checkout master"
+    "pre-deploy": "yarn run cleanup && rm -rf index.js node_modules package.json yarn.lock .babelrc .nvmrc && cp -r webflow/* . && rm -rf webflow && yarn copy",
+    "deploy": "git branch -D gh-pages && git checkout -b gh-pages && yarn pre-deploy && git add -A && git commit -m 'upd' && git push -f && git checkout master"
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
