@@ -1,0 +1,23 @@
+{
+  "name": "natailini",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:sibsfinx/natailini.git",
+  "author": "Alexander Mescheryakov <sibsfinx@ya.ru>",
+  "license": "MIT",
+  "scripts": {
+    "start": "babel-node index.js",
+    "cleanup": "./cleanup",
+    "pre-deploy": "yarn run cleanup && rm -rf index.js node_modules package.json yarn.lock .babelrc .nvmrc && cp -r webflow/* . && rm -rf webflow",
+    "deploy": "git branch -D gh-pages && git checkout -b gh-pages && yarn pre-deploy && git add -A && git commit -m 'upd' && git push -f && git checkout master"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "rimraf": "^2.6.2",
+    "website-scraper": "^3.3.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}

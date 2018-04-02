@@ -1,0 +1,2 @@
+#!/bin/bash
+replace "class=\"w-webflow-badge\"" "style=\"display: none !important\"" webflow/**/*
