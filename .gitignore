@@ -42,3 +42,8 @@ dist
 
 # Mac files
 .DS_Store
+
+.yarn/cache
+.yarn/plugins
+.yarn/install-state.gz
+.yarn/releases
