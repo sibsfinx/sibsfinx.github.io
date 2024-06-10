@@ -4,8 +4,8 @@ fetch:
 	yarn tsc
 	yarn node ./dist/fetch.js
 	make move
-	make process
 	make copy
+# make process
 
 clean:
 	rm -rf package || true
@@ -33,3 +33,16 @@ preview:
 
 copy:
 	cp -r files/* package/
+
+# prepare-ci-env:
+# 	curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+# 	npm install -g yarn
+
+prepare-ci-yarn:
+	nvm use
+	yarn set version 3.2.1
+
+# make prepare-ci-env
+deploy-ci:
+	make prepare-ci-yarn
+	make fetch
