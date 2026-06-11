@@ -1,0 +1,17 @@
+# Alexander Mescheryakov
+
+> Personal portfolio of Alexander Mescheryakov — UX/UI designer and front-end developer who designs and builds digital products, improving experiences and interfaces to match user needs and business goals with minimum waste.
+
+## About
+
+Alexander Mescheryakov is a UX and UI designer and front-end developer based online at sibsfinx.github.io. He focuses on user-centred design and front-end implementation of digital products.
+
+## Contact
+
+- Email: sibsfinx@ya.ru
+- GitHub: https://github.com/sibsfinx
+- LinkedIn: https://www.linkedin.com/in/alexander-mescheryakov-70073740/
+
+## Resources
+
+- [CV (PDF)](/cv.pdf)
