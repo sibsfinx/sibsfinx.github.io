@@ -33,6 +33,10 @@ node_modules
 #dist folder
 dist
 
+# Netlify local build artifacts
+.netlify
+deno.lock
+
 # IDEA/Webstorm project files
 .idea
 *.iml
