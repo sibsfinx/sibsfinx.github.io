@@ -1,25 +1,27 @@
 # About Alexander Mescheryakov
 
-Alexander Mescheryakov is a product engineer and designer who works at the intersection of user experience, interface design, and front-end engineering. He is also known online as sibsfinx. His practice focuses on designing and building digital products, then improving experiences and interfaces so they match real user needs and business goals with as little waste as possible.
+Alexander Mescheryakov is a senior product designer and design engineer — also known online as sibsfinx — who is **open to remote full-time roles**. He designs product experiences and ships the interface layer: flows, UI systems, and production front-end. Hiring managers usually bring him in when design and engineering need one person who can clarify the problem, design the solution, and help land it in code.
 
-Over years of shipping product work, Alexander has combined UX research and flows, UI systems and visual craft, front-end implementation, and enough full-stack and product-management context to keep delivery honest. That mix is useful when a team needs one person who can clarify the problem, shape the interface, and help land it in production code rather than stopping at a slide deck.
+He has worked with product teams in the US, UK, Germany, Canada, and Russia across SaaS, healthcare, construction tech, surveillance, and knowledge platforms. Measured outcomes include a **3×** onboarding conversion lift at Fohlio and **450%** active-user growth with **120%** more signups at IQ300 after UX/UI and front-end work. See [Work](/work/) for detail.
 
-## How he works
+## How he works on a product team
 
-Engagements usually start from a concrete product surface: an onboarding path that confuses users, a B2B workflow that needs clearer hierarchy, a marketing site that must become a product, or a design system that has to survive contact with a real codebase. Alexander prefers tight feedback loops, explicit constraints, and decisions that reduce rework for design and engineering teammates.
+Start from a concrete surface: activation, a muddy B2B workflow, a design system that breaks in production, or a marketing site that must become a product. Prefer tight feedback loops, explicit constraints, and decisions that reduce rework for design and engineering. Comfortable in Figma and in React codebases; documents rationale so the system survives the next hire.
 
-He is comfortable moving between Figma-level interface design and production front-end work in modern web stacks, documenting the rationale so other people can continue the system. The goal is not maximal process; it is a usable product that respects both users and the people who will maintain it.
+Not interested in redesign theater. Interested in shipping interfaces users can finish tasks in, and that teams can maintain without a second translation layer.
 
-## Skills and focus areas
+## Strengths for employers
 
-- UX design: flows, information architecture, interaction design, usability critique
-- UI design: visual systems, component libraries, responsive layouts, design polish
-- Front-end development: HTML, CSS, JavaScript/TypeScript, component-driven UI
-- Product collaboration: scoping, prioritization, stakeholder communication, shipping judgment
+- End-to-end product UX/UI ownership with measurable activation and retention impact
+- Design systems and Figma-to-code handoff that engineers actually use
+- Front-end implementation literacy (React, modern JS/CSS) — less throwaway mockups
+- Remote collaboration across time zones with US/EU product teams
+- Lean UX / Agile habits without ceremony for its own sake
 
-## Links
+## Education
 
-- [Contact](/contact/)
-- [CV PDF](/cv.pdf)
-- [llms.txt](/llms.txt)
-- [Home](/)
+Moscow Institute of Physics and Technology (Electrophysics) and Chuvash State University (relay protection and automation).
+
+## Contact
+
+Email: sibsfinx@ya.ru · [Contact](/contact/) · [CV](/cv.pdf) · [Home](/)
