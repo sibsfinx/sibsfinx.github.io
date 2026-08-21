@@ -13,7 +13,8 @@
     "build": "yarn tsc",
     "clean": "make clean",
     "fetch": "make fetch",
-    "preview:agentic": "node scripts/negotiate-server.mjs"
+    "preview:agentic": "node scripts/negotiate-server.mjs",
+    "prepare:netlify": "node scripts/prepare-netlify.mjs"
   },
   "devDependencies": {
     "@types/fs-extra": "^11.0.2",
