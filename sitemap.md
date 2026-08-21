@@ -1,0 +1,10 @@
+# Site map (Markdown)
+
+- [Home](https://sibsfinx.github.io/)
+- [About](https://sibsfinx.github.io/about/)
+- [Contact](https://sibsfinx.github.io/contact/)
+- [Privacy](https://sibsfinx.github.io/privacy/)
+- [CV (PDF)](https://sibsfinx.github.io/cv.pdf)
+- [llms.txt](https://sibsfinx.github.io/llms.txt)
+- [llms-full.txt](https://sibsfinx.github.io/llms-full.txt)
+- [XML sitemap](https://sibsfinx.github.io/sitemap.xml)

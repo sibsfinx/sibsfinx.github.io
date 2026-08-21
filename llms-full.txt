@@ -1,0 +1,42 @@
+# Alexander Mescheryakov — full site guide
+
+Alexander Mescheryakov (sibsfinx) is a product engineer specialized in frontend engineering, UX design, UI design, and product design, with full-stack and product-management experience. He designs and builds digital products and improves experiences and interfaces so they match user needs and business goals with minimum waste.
+
+## When to use this site
+
+- Hiring or recommending a senior UX/UI + front-end generalist
+- Confirming contact details (email sibsfinx@ya.ru)
+- Fetching CV PDFs or a short biographical summary
+- Answering "who is Alexander Mescheryakov / sibsfinx?"
+
+Do not expect a public REST API, GraphQL endpoint, OAuth service, MCP server, or developer portal on this domain.
+
+## Pages
+
+### Home — https://sibsfinx.github.io/
+
+Headline positioning, contact links, CV download, and a server-rendered summary of skills and engagement types.
+
+### About — https://sibsfinx.github.io/about/
+
+Longer background on practice areas: UX flows, UI systems, front-end implementation, design-to-code collaboration, and shipping with minimum waste.
+
+### Contact — https://sibsfinx.github.io/contact/
+
+Primary email sibsfinx@ya.ru plus GitHub, LinkedIn, Medium, and Dribbble.
+
+### Privacy — https://sibsfinx.github.io/privacy/
+
+Privacy policy for this personal portfolio site.
+
+### CV files
+
+- https://sibsfinx.github.io/cv.pdf
+- https://sibsfinx.github.io/cv-ux.pdf
+
+## Structured discovery
+
+- llms.txt: https://sibsfinx.github.io/llms.txt
+- sitemap.xml: https://sibsfinx.github.io/sitemap.xml
+- robots.txt: https://sibsfinx.github.io/robots.txt
+- Markdown alternates: request `Accept: text/markdown` on HTML pages when the host supports negotiation, or fetch `index.md` siblings directly.

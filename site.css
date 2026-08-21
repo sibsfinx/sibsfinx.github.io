@@ -1,0 +1,71 @@
+:root {
+  color-scheme: light;
+  --ink: #161616;
+  --muted: #444;
+  --paper: #f7f5f1;
+  --line: rgba(22, 22, 22, 0.18);
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+  color: var(--ink);
+  background:
+    radial-gradient(1200px 600px at 10% -10%, #efe8dc 0%, transparent 55%),
+    radial-gradient(900px 500px at 100% 0%, #e4ece8 0%, transparent 50%),
+    var(--paper);
+  line-height: 1.55;
+}
+
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1.25rem;
+  padding: 1rem 1.25rem;
+  font-family: "Gill Sans", "Trebuchet MS", "Segoe UI", sans-serif;
+  font-size: 0.95rem;
+}
+
+.site-nav a {
+  color: var(--ink);
+  text-decoration: none;
+  border-bottom: 1px solid var(--line);
+}
+
+.page {
+  max-width: 42rem;
+  margin: 0 auto;
+  padding: 1.5rem 1.25rem 3.5rem;
+}
+
+.page h1 {
+  font-size: clamp(1.8rem, 4vw, 2.4rem);
+  line-height: 1.15;
+  margin: 0 0 1rem;
+  letter-spacing: -0.02em;
+}
+
+.page h2 {
+  font-size: 1.2rem;
+  margin: 1.75rem 0 0.5rem;
+}
+
+.page p,
+.page li {
+  font-size: 1.05rem;
+  color: var(--muted);
+}
+
+.page a { color: var(--ink); }
+
+.md-recovery {
+  margin-top: 2rem;
+  padding: 1rem;
+  overflow: auto;
+  font-family: "IBM Plex Mono", "SFMono-Regular", Menlo, Consolas, monospace;
+  font-size: 0.85rem;
+  background: rgba(255, 255, 255, 0.55);
+  border: 1px solid var(--line);
+}

@@ -12,7 +12,8 @@
     "copy": "make copy",
     "build": "yarn tsc",
     "clean": "make clean",
-    "fetch": "make fetch"
+    "fetch": "make fetch",
+    "preview:agentic": "node scripts/negotiate-server.mjs"
   },
   "devDependencies": {
     "@types/fs-extra": "^11.0.2",
