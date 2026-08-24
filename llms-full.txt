@@ -31,4 +31,4 @@ Do not expect a public REST API, GraphQL endpoint, OAuth service, MCP server, or
 
 ## Contact
 
-Email: hello@alexmesch.com (alternate: sibsfinx@ya.ru)
+Contact via LinkedIn: https://www.linkedin.com/in/alexmesch/

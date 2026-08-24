@@ -6,11 +6,11 @@ As an engineer I also handle UX and product challenges when needed, drawing on e
 
 ## Contact
 
-- Email: hello@alexmesch.com
-- Alternate: sibsfinx@ya.ru
-- GitHub: https://github.com/sibsfinx
 - LinkedIn: https://www.linkedin.com/in/alexmesch/
+- GitHub: https://github.com/sibsfinx
 - Default CV: /cv.pdf
+
+I do not publish an email address or phone number on this site.
 
 ## CVs by role focus
 

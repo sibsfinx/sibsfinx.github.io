@@ -16,4 +16,4 @@ Earlier roles building and modernizing product surfaces end-to-end — useful gr
 
 ## Links
 
-Email: hello@alexmesch.com · [Contact](/contact/) · [Home](/)
+[Contact](/contact/) · [Home](/)

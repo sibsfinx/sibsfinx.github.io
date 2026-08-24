@@ -1,17 +1,14 @@
 # Contact
 
-The fastest way to reach me for engineering roles or collaboration is email. Include a short description of the product or role (software / frontend / fullstack / lead). I can also engage on UX and product challenges when early-startup / 0→1 judgment helps.
+The fastest way to reach me for engineering roles or collaboration is LinkedIn. Include a short description of the product or role (software / frontend / fullstack / lead). I can also engage on UX and product challenges when early-startup / 0→1 judgment helps.
 
-## Email
+## Reach me
 
-Primary: hello@alexmesch.com  
-Alternate: sibsfinx@ya.ru
-
-## Public profiles
-
-- GitHub: https://github.com/sibsfinx
 - LinkedIn: https://www.linkedin.com/in/alexmesch/
+- GitHub: https://github.com/sibsfinx
 - Medium: https://medium.com/@sibsfinx
+
+I do not publish an email address or phone number on this site.
 
 ## Documents
 

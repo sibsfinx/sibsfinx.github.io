@@ -1,10 +1,10 @@
-# Privacy policy
+# Privacy — alexmesch.com
 
-This privacy policy describes how the personal portfolio website at https://alexmesch.com/, operated by Alexander Mescheryakov, handles information. The site is a static public portfolio used to share professional information, contact details, and downloadable CV files. It is not a social network, marketplace, or account-based product.
+This privacy policy describes how the personal portfolio website at https://alexmesch.com/, operated by Alexander Mescheryakov, handles information. The site is a static public portfolio used to share professional information, public profile links, and downloadable CV files. It is not a social network, marketplace, or account-based product.
 
 ## Information you provide
 
-If you email hello@alexmesch.com (or the alternate sibsfinx@ya.ru) or contact Alexander through linked third-party profiles such as GitHub or LinkedIn, those messages and profile interactions are processed by the respective email or platform providers under their own terms. Do not send passwords, payment card numbers, or other sensitive secrets when reaching out about portfolio or engineering work.
+If you contact me through LinkedIn, GitHub, or other linked third-party profiles, those messages and profile interactions are processed by the respective platform providers under their own terms. Do not send passwords, payment card numbers, or other sensitive secrets when reaching out about portfolio or engineering work.
 
 ## Information collected automatically
 
@@ -22,4 +22,4 @@ This site is intended for professional audiences and is not directed at children
 
 ## Contact about privacy
 
-Privacy questions about this site can be sent to hello@alexmesch.com. For general professional contact, see https://alexmesch.com/contact/. This policy may be updated as the hosting setup changes; the canonical URL remains https://alexmesch.com/privacy/.
+Privacy questions about this site can be sent via [LinkedIn](https://www.linkedin.com/in/alexmesch/). For general professional contact, see https://alexmesch.com/contact/. This policy may be updated as the hosting setup changes; the canonical URL remains https://alexmesch.com/privacy/.
