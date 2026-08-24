@@ -36,6 +36,12 @@ In the right-hand `social-link--grid` column, put **About** and **Work** first (
 - Keep named outcomes for: Littledata, Vectary, Fohlio, IQ300, 3dEYE, Flow Health (and similar kept names).
 - **Do not name** Wecudos, SlidePresenter, or Brandymint. If needed, describe the work/achievement without those company names.
 
+## Typography
+
+Site typeface is **Gira Sans** only (`gira-sans` via Adobe Fonts / Typekit kit `wma7yvn`).
+Load `https://use.typekit.net/wma7yvn.css` in `<head>` on every HTML page (with typekit preconnects) and keep `/site.css` font-family overrides.
+Do not use Lato, Space Mono, or other display stacks for UI copy. Ensure the Adobe Fonts kit allows the publish domains (alexmesch.com, Netlify previews) so the font is not missing.
+
 ## Background
 
 Canvas must stay solid white (`#fff`) on every breakpoint. Override Webflow mobile `#eee` cover gradients via `site.css`; never ship gray/cream page backgrounds.

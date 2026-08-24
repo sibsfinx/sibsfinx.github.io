@@ -1,6 +1,23 @@
 /* Layout helpers only — visual language comes from Webflow octobear CSS.
    Do NOT invent alternate themes (cream paper, serif stacks, custom nav bars). */
 
+/* Gira Sans everywhere (Adobe Fonts kit wma7yvn). Override Webflow Lato defaults. */
+html,
+body,
+body *,
+.app-container--blank,
+.app-cover--blank,
+.cover-title,
+.font-space,
+.social-link--grid,
+.subpage-prose,
+.subpage-prose h2,
+.subpage-prose p,
+.subpage-prose li,
+.subpage-prose a {
+  font-family: "gira-sans", "Gira Sans", sans-serif !important;
+}
+
 /* Webflow mobile breakpoints paint #eee gradients on covers — force white always. */
 html,
 body,
@@ -19,7 +36,6 @@ body,
 .subpage-prose {
   margin-top: 0.5em;
   max-width: 34em;
-  font-family: Lato, Helvetica, sans-serif;
   font-size: 15px;
   font-weight: 400;
   line-height: 1.8em;
