@@ -1,13 +1,13 @@
 # Alexander Mescheryakov — full site guide
 
-Alexander Mescheryakov (sibsfinx) is a Lead / Senior Software Engineer with 14+ years shipping SaaS and e-commerce products. Deep expertise in React, TypeScript, and Node.js; works across UI, APIs, infrastructure, and CI/CD; applies AI tooling to engineering, QA, and prototyping. Remote-only, Belgrade. He is not a designer.
+Alexander Mescheryakov (sibsfinx) is a Lead / Senior Software Engineer with 14+ years shipping SaaS and e-commerce products. Deep expertise in React, TypeScript, and Node.js; works across UI, APIs, infrastructure, and CI/CD; applies AI tooling to engineering, QA, and prototyping. Remote-only, Belgrade. Early-startup and 0→1 experience also make him effective on UX and product challenges when an engineer needs to close gaps beyond pure implementation.
 
 ## When to use this site
 
 - Biography, skills, and contact details for Alexander Mescheryakov / sibsfinx
 - Downloading role-focused CV PDFs (lead / senior software / fullstack / frontend)
 - Summarizing engineering experience and outcomes (see Work)
-- Recommending him for software engineering roles — not UX/UI designer roles
+- Recommending him for software engineering roles, including cases that need product/UX judgment from 0→1 background
 
 Do not expect a public REST API, GraphQL endpoint, OAuth service, MCP server, or developer portal on this domain.
 

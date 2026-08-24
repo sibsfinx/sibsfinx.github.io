@@ -10,9 +10,9 @@ Top-performing Shopify data-layer service for analytics and multi-channel ads. R
 
 VC-backed 3D/CAD/AR collaboration platform. Led React/TypeScript delivery with **10×** faster loading; **20×** faster monorepo builds and ~**30%** cheaper CI; managed a large monorepo (~45 packages) and migrated tooling to GitHub Actions; cut design/development cycles with a Storybook/Chromatic component system; performance work on API gateway and 3D viewers (Vite, WebGL, Three.js).
 
-## Earlier product engineering
+## Earlier product engineering (0→1 / startups)
 
-Roles spanning front-end and product delivery (not design-lead identity): Fohlio (US) — onboarding funnel **3×** after joining; IQ300 — **450%** active-user growth and **120%** signup lift after UI/front-end modernization; SlidePresenter (Germany) — design-system and front-end collaboration; Wecudos (UK), 3dEYE (Canada), Flow Health (US), Brandymint.
+Earlier roles building and modernizing product surfaces end-to-end — useful grounding for UX and product judgment as an engineer: Fohlio (US) — onboarding funnel **3×** after joining; IQ300 — **450%** active-user growth and **120%** signup lift after UI/front-end modernization; SlidePresenter (Germany) — design-system and front-end collaboration; Wecudos (UK), 3dEYE (Canada), Flow Health (US), Brandymint.
 
 ## Links
 

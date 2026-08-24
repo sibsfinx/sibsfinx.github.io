@@ -1,6 +1,6 @@
 # Contact Alexander Mescheryakov
 
-The fastest way to reach Alexander Mescheryakov (sibsfinx) for engineering roles or collaboration is email. Include a short description of the product or role (software / frontend / fullstack / lead — he is not hiring as a designer).
+The fastest way to reach Alexander Mescheryakov (sibsfinx) for engineering roles or collaboration is email. Include a short description of the product or role (software / frontend / fullstack / lead). He can also engage on UX and product challenges when the work benefits from early-startup / 0→1 judgment.
 
 ## Email
 
