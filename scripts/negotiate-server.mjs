@@ -69,7 +69,12 @@ function markdownPath(pathname) {
 }
 
 function safeJoin(urlPath) {
-  const decoded = decodeURIComponent(urlPath.split("?")[0]);
+  let decoded;
+  try {
+    decoded = decodeURIComponent(urlPath.split("?")[0]);
+  } catch {
+    return null;
+  }
   const rel = decoded.replace(/^\/+/, "");
   const full = path.resolve(root, rel || "index.html");
   if (!full.startsWith(root)) return null;

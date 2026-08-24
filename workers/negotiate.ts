@@ -89,7 +89,7 @@ export default {
     if (STATIC_EXT.test(url.pathname)) {
       const res = await env.ASSETS.fetch(request);
       const out = new Response(res.body, res);
-      appendVaryAccept(out.headers);
+      // Do not set Vary: Accept — static assets do not vary by Accept.
       if (url.pathname.endsWith(".md")) {
         out.headers.set("Content-Type", "text/markdown; charset=utf-8");
       }

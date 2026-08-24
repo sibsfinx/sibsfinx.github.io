@@ -92,7 +92,7 @@ export default async (
   if (STATIC_EXT.test(url.pathname)) {
     const res = await context.next();
     const out = new Response(res.body, res);
-    appendVaryAccept(out.headers);
+    // Do not set Vary: Accept — static assets do not vary by Accept.
     if (url.pathname.endsWith(".md") && out.status === 200) {
       out.headers.set("Content-Type", "text/markdown; charset=utf-8");
     }
