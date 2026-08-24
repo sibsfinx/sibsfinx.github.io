@@ -1,5 +1,7 @@
 # Agent guide — Alexander Mescheryakov
 
+Visual style and content locks: see `.ai/rules/BASE.md` (overview in `.ai/README.md`). Match the homepage Webflow look on every HTML page; do not invent alternate cream/serif themes.
+
 ## Positioning
 
 Write portfolio copy in first person. Present me as a Lead / Senior Software Engineer with hands-on experience in React, TypeScript, Node.js, Ruby, Ruby on Rails, MongoDB, and the Vercel AI SDK. Keep engineering leadership and delivery primary; describe UX and product judgment as complementary experience from early-stage and 0→1 work.
