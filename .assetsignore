@@ -1,0 +1,13 @@
+.git
+.yarn
+node_modules
+dist
+package
+files
+src
+*.lock
+.cursor
+tmp
+workers
+scripts
+.netlify

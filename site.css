@@ -1,0 +1,90 @@
+/* Layout helpers only — visual language comes from Webflow octobear CSS.
+   Do NOT invent alternate themes (cream paper, serif stacks, custom nav bars). */
+
+/* Gira Sans everywhere (Adobe Fonts kit wma7yvn). Override Webflow Lato defaults. */
+html,
+body,
+body *,
+.app-container--blank,
+.app-cover--blank,
+.cover-title,
+.font-space,
+.social-link--grid,
+.subpage-prose,
+.subpage-prose h2,
+.subpage-prose p,
+.subpage-prose li,
+.subpage-prose a {
+  font-family: "gira-sans", "Gira Sans", sans-serif !important;
+}
+
+/* Webflow mobile breakpoints paint #eee gradients on covers — force white always. */
+html,
+body,
+.app-container--blank,
+.app-cover--blank,
+.app-cover--blank.subpage-cover {
+  background-color: #fff !important;
+  background-image: none !important;
+}
+
+.app-cover--blank.subpage-cover {
+  height: auto;
+  min-height: 70vh;
+}
+
+.subpage-prose {
+  margin-top: 0.5em;
+  max-width: 34em;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 1.8em;
+  color: #020202;
+}
+
+.subpage-prose h2 {
+  margin: 1.6em 0 0.55em;
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 1.4;
+  color: #000;
+}
+
+.subpage-prose p,
+.subpage-prose ul {
+  margin: 0 0 1em;
+}
+
+.subpage-prose li {
+  margin: 0 0 0.4em;
+}
+
+.subpage-prose a {
+  color: #000;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+  text-decoration: none;
+  transition: all 0.2s;
+}
+
+.subpage-prose a:hover {
+  color: #30f;
+  border-bottom-color: #30f;
+}
+
+.subpage-prose strong {
+  font-weight: 700;
+}
+
+/* Subpage heading crumb: gray alexmesch.com + nbsp gap + page title */
+.page-crumb {
+  color: #9a9a9a !important;
+  text-decoration: none !important;
+  border-bottom: none !important;
+  font-weight: inherit;
+}
+.page-crumb:hover {
+  color: #30f !important;
+  text-decoration: none !important;
+  border-bottom: none !important;
+}
+

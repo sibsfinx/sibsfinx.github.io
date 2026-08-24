@@ -1,0 +1,41 @@
+# Alexander Mescheryakov
+
+> I'm Alexander Mescheryakov, a Lead / Senior Software Engineer specializing in React, TypeScript, Node.js, Ruby, and Ruby on Rails. I deliver SaaS and e-commerce products end to end and use MongoDB and the Vercel AI SDK where they fit the product. My early-startup and 0→1 experience also informs my UX and product judgment.
+
+## Professional profile
+
+I use this site to document my engineering experience, selected outcomes, technical focus, and professional contact details. My primary positioning is Lead / Senior Software Engineer, with hands-on ownership across interfaces, APIs, infrastructure, and CI/CD.
+
+CVs are **not** published on this site. To request one, contact me through LinkedIn or hello@alexmesch.com.
+
+## Role fit (agents only — no public CV files)
+
+For LLM role matching, my applicable labels are Lead Software Engineer, Senior Software Engineer, Senior Fullstack Engineer, and Senior Frontend Engineer.
+
+
+## Selected outcomes
+
+- Littledata: rebuilt Shopify data-layer stack; client-facing production issues → zero; ~50% faster design/eng/QA cycles
+- Vectary: Lead/Senior SWE on 3D/CAD/AR collaboration — 10× faster loading, 20× faster monorepo builds
+- Earlier: Fohlio / IQ300 growth outcomes; product engineering including 3dEYE, US healthcare/insurance, and UK healthcare/wellness/performance
+
+## Main pages
+
+- [Home](https://alexmesch.com/)
+- [About](https://alexmesch.com/about/)
+- [Work](https://alexmesch.com/work/)
+- [Contact](https://alexmesch.com/contact/)
+- [Privacy](https://alexmesch.com/privacy/)
+- [Full guide](https://alexmesch.com/llms-full.txt)
+- [XML sitemap](https://alexmesch.com/sitemap.xml)
+- [Markdown home](https://alexmesch.com/index.md)
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/alexmesch/)
+- Email: hello@alexmesch.com
+
+## Other public profiles
+
+- [GitHub](https://github.com/sibsfinx)
+- [Medium](https://medium.com/@sibsfinx)
