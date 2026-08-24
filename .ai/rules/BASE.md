@@ -17,15 +17,20 @@ Canonical H1 (do not “improve” grammar or rewrite):
 Alexander Mescheryakov,
 a AI–native product engineer with fullstack, engineering management and product experience, building scalable systems from 0 to 1 and delivering end–to–end
 
+## Subpage heading crumb
+
+Subpage H1 format: gray un-underlined `alexmesch.com` (links to `/`) + ` → ` + page title, e.g. `alexmesch.com → Selected work`.
+Class: `page-crumb` / `page-crumb-sep`. Do not put a Home item in the right-hand `social-link--grid`.
+
 ## Homepage link column
 
-In the right-hand `social-link--grid` column, put **About** and **Work** first (above GitHub / LinkedIn / other profiles (no Email in the top link column)).
+In the right-hand `social-link--grid` column, put **About** and **Work** first, then Contact, Privacy, Home, GitHub, LinkedIn. **Do not** put Email in the top social-link column on any page. Contact channels remain LinkedIn or `hello@alexmesch.com` on `/contact` and in prose.
 
 ## Positioning & contact
 
 - First person; Lead / Senior Software Engineer (React, TypeScript, Node.js, Ruby, Ruby on Rails, MongoDB, Vercel AI SDK).
 - UX/product is complementary early-startup / 0→1 experience, not a designer pitch.
-- Contact: LinkedIn `https://www.linkedin.com/in/alexmesch/` **or** `hello@alexmesch.com`. Never strip email.
+- Contact: LinkedIn `https://www.linkedin.com/in/alexmesch/` **or** `hello@alexmesch.com` (on `/contact` and in body copy). Never strip email from contact/privacy prose.
 - No published CV PDFs; no phone; no legal entities; Vectary = US.
 - `/about` copy source of truth is the LinkedIn About text (including Belgrade / timezone-flexible and open-to-work lines). Do not rewrite it into a softer bio.
 - Do not invent additional residence details beyond what that LinkedIn About states.
@@ -44,7 +49,7 @@ Do not use Lato, Space Mono, or other display stacks for UI copy. Ensure the Ado
 
 ## Analytics
 
-Do not embed Yandex.Metrika or other first-party analytics counters.
+No Yandex.Metrika. Do not embed Metrika or any other first-party analytics counter. Privacy copy must not describe Metrika (or similar) as in use.
 
 ## Background
 
