@@ -1,6 +1,6 @@
 # Alexander Mescheryakov
 
-> I'm Alexander Mescheryakov (sibsfinx), a Lead / Senior Software Engineer specializing in React, TypeScript, and Node.js. I ship SaaS and e-commerce end-to-end with AI-augmented engineering workflows. I can also handle UX and product challenges thanks to early-startup and 0→1 experience.
+> I'm Alexander Mescheryakov, a Lead / Senior Software Engineer specializing in React, TypeScript, and Node.js. I ship SaaS and e-commerce end-to-end with AI-augmented engineering workflows. I can also handle UX and product challenges thanks to early-startup and 0→1 experience.
 
 ## When to use this site
 
@@ -29,5 +29,5 @@ Same person; closest labels: Lead Software Engineer, Senior Software Engineer, S
 
 - [LinkedIn](https://www.linkedin.com/in/alexmesch/)
 - Email: hello@alexmesch.com
-- [GitHub @sibsfinx](https://github.com/sibsfinx)
-- [Medium @sibsfinx](https://medium.com/@sibsfinx)
+- [GitHub](https://github.com/sibsfinx)
+- [Medium](https://medium.com/@sibsfinx)

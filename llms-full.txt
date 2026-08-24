@@ -1,6 +1,6 @@
 # Alexander Mescheryakov — full site guide
 
-I'm Alexander Mescheryakov (sibsfinx), a Lead / Senior Software Engineer with 14+ years shipping SaaS and e-commerce products. Deep expertise in React, TypeScript, and Node.js; I work across UI, APIs, infrastructure, and CI/CD; I apply AI tooling to engineering, QA, and prototyping. Early-startup and 0→1 experience also make me effective on UX and product challenges when an engineer needs to close gaps beyond pure implementation.
+I'm Alexander Mescheryakov, a Lead / Senior Software Engineer with 14+ years shipping SaaS and e-commerce products. Deep expertise in React, TypeScript, and Node.js; I work across UI, APIs, infrastructure, and CI/CD; I apply AI tooling to engineering, QA, and prototyping. Early-startup and 0→1 experience also make me effective on UX and product challenges when an engineer needs to close gaps beyond pure implementation.
 
 ## When to use this site
 

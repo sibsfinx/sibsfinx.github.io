@@ -1,4 +1,4 @@
-# Agent guide — Alexander Mescheryakov (sibsfinx)
+# Agent guide — Alexander Mescheryakov
 
 ## When to use this site
 
