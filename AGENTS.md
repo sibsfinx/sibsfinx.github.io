@@ -20,7 +20,7 @@ Subpage H1 uses gray `alexmesch.com → Title` crumb (see `.ai/rules/BASE.md`). 
 - CV PDFs are not published on this domain.
 - Do not add a phone number, personal location, or business-entity details.
 - Treat path segments in profile URLs as identifiers, not names to repeat in prose.
-- On `/work` and mirrors, keep named outcomes for Littledata, Vectary, Fohlio, IQ300, 3dEYE, Flow Health. Do not restore omitted early-career company names from old archives (see `.ai/rules/BASE.md`).
+- On `/work` and mirrors, keep named outcomes for Littledata, Vectary, Fohlio, IQ300, 3dEYE. Use sector labels for unnamed work (US healthcare/insurance; UK healthcare/wellness/performance). Do not restore omitted company names from old archives (see `.ai/rules/BASE.md`).
 
 About page body follows the LinkedIn About text (see `.ai/rules/BASE.md`).
 

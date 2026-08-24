@@ -11,7 +11,7 @@ CVs are not published here. To request one, contact me through LinkedIn or hello
 ## Proof points
 
 - At Littledata, I rebuilt a Shopify data-layer stack with React, TypeScript, Node.js, and MongoDB; reduced client-facing production issues to zero; and shortened design, engineering, and QA cycles by approximately 50%.
-- At Vectary (US), I improved application loading by 10× and monorepo builds by 20× while modernizing the monorepo and CI.
+- At Vectary, I improved application loading by 10× and monorepo builds by 20× while modernizing the monorepo and CI.
 - In earlier roles, my work contributed to a 3× increase in onboarding conversion at Fohlio and, at IQ300, 450% active-user growth and a 120% increase in signups after front-end modernization.
 
 ## Pages
