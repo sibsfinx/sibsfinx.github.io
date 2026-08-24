@@ -1,14 +1,14 @@
 # About Alexander Mescheryakov
 
-Alexander Mescheryakov is a Lead / Senior Software Engineer (also known as sibsfinx). He ships SaaS and e-commerce products with deep expertise in React, TypeScript, and Node.js, working across the full stack: UI, REST/GraphQL APIs, infrastructure, and CI/CD.
+I'm Alexander Mescheryakov — also known as sibsfinx — a Lead / Senior Software Engineer. I ship SaaS and e-commerce products with deep expertise in React, TypeScript, and Node.js, working across the full stack: UI, REST/GraphQL APIs, infrastructure, and CI/CD.
 
-He collaborates with PMs, designers, and QA while owning delivery — equally comfortable leading a team or going deep as an IC. Early-startup and 0→1 work taught him to handle UX and product challenges as an engineer: clarify the problem, shape usable flows, and ship without waiting for a perfect handoff. He applies AI tooling and agent-based workflows to engineering, QA, research, and prototyping.
+I collaborate with PMs, designers, and QA while owning delivery — equally comfortable leading a team or going deep as an IC. Early-startup and 0→1 work taught me to handle UX and product challenges as an engineer: clarify the problem, shape usable flows, and ship without waiting for a perfect handoff. I apply AI tooling and agent-based workflows to engineering, QA, research, and prototyping.
 
-Remote-only, based in Belgrade, Serbia. Recent work includes Littledata (London) and Vectary (Bratislava), plus earlier product engineering across US, UK, German, and Canadian teams.
+Recent work includes Littledata and Vectary, plus earlier product engineering with teams in the US, UK, Germany, and Canada.
 
-## How he works
+## How I work
 
-Engagements center on shipping: modernizing legacy apps, raising reliability (observability, error monitoring, E2E), cutting cycle time with better engineering practice and AI-assisted workflows, and owning features end-to-end. He prefers measurable outcomes over process theater.
+Engagements center on shipping: modernizing legacy apps, raising reliability (observability, error monitoring, E2E), cutting cycle time with better engineering practice and AI-assisted workflows, and owning features end-to-end. I prefer measurable outcomes over process theater.
 
 ## Focus areas
 

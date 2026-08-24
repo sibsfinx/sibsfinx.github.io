@@ -1,8 +1,8 @@
 # Alexander Mescheryakov
 
-Alexander Mescheryakov (sibsfinx) is a Lead / Senior Software Engineer specializing in React, TypeScript, and Node.js. He ships SaaS and e-commerce products end-to-end — UI, APIs, infrastructure, and CI/CD — with AI-augmented engineering workflows. Remote-only, based in Belgrade.
+I'm Alexander Mescheryakov (sibsfinx), a Lead / Senior Software Engineer specializing in React, TypeScript, and Node.js. I ship SaaS and e-commerce products end-to-end — UI, APIs, infrastructure, and CI/CD — with AI-augmented engineering workflows.
 
-As an engineer he also handles UX and product challenges when needed, drawing on early-startup and 0→1 experience where shipping meant owning the problem, not just the ticket.
+As an engineer I also handle UX and product challenges when needed, drawing on early-startup and 0→1 experience where shipping meant owning the problem, not just the ticket.
 
 ## Contact
 
