@@ -75,7 +75,7 @@ body,
   font-weight: 700;
 }
 
-/* Subpage heading crumb: gray alexmesch.com → Page title */
+/* Subpage heading crumb: gray alexmesch.com + nbsp gap + page title */
 .page-crumb {
   color: #9a9a9a !important;
   text-decoration: none !important;
@@ -86,9 +86,5 @@ body,
   color: #30f !important;
   text-decoration: none !important;
   border-bottom: none !important;
-}
-.page-crumb-sep {
-  color: #9a9a9a;
-  font-weight: inherit;
 }
 

@@ -19,8 +19,8 @@ a AI–native product engineer with fullstack, engineering management and produc
 
 ## Subpage heading crumb
 
-Subpage H1 format: gray un-underlined `alexmesch.com` (links to `/`) + ` → ` + page title, e.g. `alexmesch.com → Selected work`.
-Class: `page-crumb` / `page-crumb-sep`. Do not put a Home item in the right-hand `social-link--grid`.
+Subpage H1 format: gray un-underlined `alexmesch.com` (links to `/`) + `&nbsp;&nbsp;` + page title, e.g. `alexmesch.com  Selected work`.
+Class: `page-crumb`. Do not put a Home item in the right-hand `social-link--grid`.
 
 ## Homepage link column
 
