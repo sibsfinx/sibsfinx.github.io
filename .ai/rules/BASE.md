@@ -24,7 +24,7 @@ Class: `page-crumb` / `page-crumb-sep`. Do not put a Home item in the right-hand
 
 ## Homepage link column
 
-In the right-hand `social-link--grid` column, put **About** and **Work** first, then Contact, Privacy, Home, GitHub, LinkedIn. **Do not** put Email in the top social-link column on any page. Contact channels remain LinkedIn or `hello@alexmesch.com` on `/contact` and in prose.
+In the right-hand `social-link--grid` column, put **About** and **Work** first, then Contact, Privacy, GitHub, LinkedIn. **Do not** put Email or Home in the top social-link column on any page (home is via the `alexmesch.com` crumb). Contact channels remain LinkedIn or `hello@alexmesch.com` on `/contact` and in prose.
 
 ## Positioning & contact
 
