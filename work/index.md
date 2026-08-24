@@ -1,6 +1,6 @@
 # Selected work — Alexander Mescheryakov
 
-Selected software engineering outcomes. Full timeline: [CV PDF](/cv.pdf). Role-focused CVs: [Lead](/Alexander_Mescheryakov_Lead_Software_Engineer_CV-1.pdf), [Senior Software](/Alexander_Mescheryakov_Senior_Software_Engineer_CV-2.pdf), [Fullstack](/Alexander_Mescheryakov_Senior_Fullstack_Engineer_CV.pdf), [Frontend](/Alexander_Mescheryakov_Senior_Frontend_Engineer_CV.pdf).
+Selected software engineering outcomes. For a CV, contact me via LinkedIn (CVs are not published on this site).
 
 ## Littledata — Senior Software Engineer (Feb 2025 – Present)
 

@@ -22,6 +22,5 @@ Engagements center on shipping: modernizing legacy apps, raising reliability (ob
 ## Links
 
 - [Contact](/contact/)
-- [CV](/cv.pdf)
 - [llms.txt](/llms.txt)
 - [Home](/)

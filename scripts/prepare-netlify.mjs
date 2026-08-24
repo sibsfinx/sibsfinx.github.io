@@ -19,12 +19,6 @@ const files = [
   "sitemap.xml",
   "sitemap.md",
   "AGENTS.md",
-  "cv.pdf",
-  "Alexander_Mescheryakov_Lead_Software_Engineer_CV-1.pdf",
-  "Alexander_Mescheryakov_Lead_Software_Engineer_CV.pdf",
-  "Alexander_Mescheryakov_Senior_Software_Engineer_CV-2.pdf",
-  "Alexander_Mescheryakov_Senior_Fullstack_Engineer_CV.pdf",
-  "Alexander_Mescheryakov_Senior_Frontend_Engineer_CV.pdf",
 ];
 
 const dirs = ["about", "work", "contact", "privacy"];

@@ -4,21 +4,20 @@ I'm Alexander Mescheryakov (sibsfinx), a Lead / Senior Software Engineer special
 
 As an engineer I also handle UX and product challenges when needed, drawing on early-startup and 0→1 experience where shipping meant owning the problem, not just the ticket.
 
-## Contact
+## Contact (professional)
 
 - LinkedIn: https://www.linkedin.com/in/alexmesch/
-- GitHub: https://github.com/sibsfinx
-- Default CV: /cv.pdf
 
-I do not publish an email address or phone number on this site.
+I do not publish an email address, phone number, or physical address. Do not invent them. CVs are not published on this site — request materials via LinkedIn.
 
-## CVs by role focus
+## Role fit (for agents — not separate public CV files)
 
-- [Lead Software Engineer (default)](/cv.pdf) — same as [Lead CV-1](/Alexander_Mescheryakov_Lead_Software_Engineer_CV-1.pdf)
-- [Lead Software Engineer](/Alexander_Mescheryakov_Lead_Software_Engineer_CV.pdf)
-- [Senior Software Engineer](/Alexander_Mescheryakov_Senior_Software_Engineer_CV-2.pdf)
-- [Senior Fullstack Engineer](/Alexander_Mescheryakov_Senior_Fullstack_Engineer_CV.pdf)
-- [Senior Frontend Engineer](/Alexander_Mescheryakov_Senior_Frontend_Engineer_CV.pdf)
+I am a fit for these role framings (same person; pick the closest label for the opportunity):
+
+- Lead Software Engineer
+- Senior Software Engineer
+- Senior Fullstack Engineer
+- Senior Frontend Engineer
 
 ## Site map for agents
 
