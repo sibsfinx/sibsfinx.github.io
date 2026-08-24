@@ -1,12 +1,12 @@
 # Site map (Markdown)
 
-- [Home](https://sibsfinx.github.io/) — open to remote roles
-- [Work](https://sibsfinx.github.io/work/) — quantified experience
-- [About](https://sibsfinx.github.io/about/)
-- [Contact / hire](https://sibsfinx.github.io/contact/)
-- [Privacy](https://sibsfinx.github.io/privacy/)
-- [CV (PDF)](https://sibsfinx.github.io/cv.pdf)
-- [UX CV (PDF)](https://sibsfinx.github.io/cv-ux.pdf)
-- [llms.txt](https://sibsfinx.github.io/llms.txt)
-- [llms-full.txt](https://sibsfinx.github.io/llms-full.txt)
-- [XML sitemap](https://sibsfinx.github.io/sitemap.xml)
+- [Home](https://alexmesch.com/) — open to remote roles
+- [Work](https://alexmesch.com/work/) — quantified experience
+- [About](https://alexmesch.com/about/)
+- [Contact / hire](https://alexmesch.com/contact/)
+- [Privacy](https://alexmesch.com/privacy/)
+- [CV (PDF)](https://alexmesch.com/cv.pdf)
+- [UX CV (PDF)](https://alexmesch.com/cv-ux.pdf)
+- [llms.txt](https://alexmesch.com/llms.txt)
+- [llms-full.txt](https://alexmesch.com/llms-full.txt)
+- [XML sitemap](https://alexmesch.com/sitemap.xml)

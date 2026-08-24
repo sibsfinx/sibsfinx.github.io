@@ -10,16 +10,16 @@ Do not use this site as an API product, developer portal, commerce checkout, OAu
 
 ## Main pages
 
-- [Home](https://sibsfinx.github.io/)
-- [About](https://sibsfinx.github.io/about/)
-- [Work](https://sibsfinx.github.io/work/)
-- [Contact](https://sibsfinx.github.io/contact/)
-- [Privacy](https://sibsfinx.github.io/privacy/)
-- [CV (PDF)](https://sibsfinx.github.io/cv.pdf)
-- [UX CV (PDF)](https://sibsfinx.github.io/cv-ux.pdf)
-- [Full guide](https://sibsfinx.github.io/llms-full.txt)
-- [XML sitemap](https://sibsfinx.github.io/sitemap.xml)
-- [Markdown home](https://sibsfinx.github.io/index.md)
+- [Home](https://alexmesch.com/)
+- [About](https://alexmesch.com/about/)
+- [Work](https://alexmesch.com/work/)
+- [Contact](https://alexmesch.com/contact/)
+- [Privacy](https://alexmesch.com/privacy/)
+- [CV (PDF)](https://alexmesch.com/cv.pdf)
+- [UX CV (PDF)](https://alexmesch.com/cv-ux.pdf)
+- [Full guide](https://alexmesch.com/llms-full.txt)
+- [XML sitemap](https://alexmesch.com/sitemap.xml)
+- [Markdown home](https://alexmesch.com/index.md)
 
 ## Public profiles
 

@@ -14,4 +14,4 @@ Allow: /
 User-agent: Perplexity-User
 Allow: /
 
-Sitemap: https://sibsfinx.github.io/sitemap.xml
+Sitemap: https://alexmesch.com/sitemap.xml

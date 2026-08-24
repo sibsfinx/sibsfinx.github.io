@@ -1,6 +1,6 @@
 # Privacy policy
 
-This privacy policy describes how the personal portfolio website at https://sibsfinx.github.io/, operated by Alexander Mescheryakov, handles information. The site is a static public portfolio used to share professional information, contact details, and downloadable CV files. It is not a social network, marketplace, or account-based product.
+This privacy policy describes how the personal portfolio website at https://alexmesch.com/, operated by Alexander Mescheryakov, handles information. The site is a static public portfolio used to share professional information, contact details, and downloadable CV files. It is not a social network, marketplace, or account-based product.
 
 ## Information you provide
 
@@ -20,4 +20,4 @@ This site is intended for professional audiences and is not directed at children
 
 ## Contact about privacy
 
-Privacy questions about this site can be sent to sibsfinx@ya.ru. For general professional contact, see https://sibsfinx.github.io/contact/. This policy may be updated as the hosting setup changes; the canonical URL remains https://sibsfinx.github.io/privacy/.
+Privacy questions about this site can be sent to sibsfinx@ya.ru. For general professional contact, see https://alexmesch.com/contact/. This policy may be updated as the hosting setup changes; the canonical URL remains https://alexmesch.com/privacy/.

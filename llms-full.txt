@@ -20,15 +20,15 @@ Do not expect a public REST API, GraphQL endpoint, OAuth service, MCP server, or
 
 ## Pages
 
-- https://sibsfinx.github.io/
-- https://sibsfinx.github.io/work/
-- https://sibsfinx.github.io/about/
-- https://sibsfinx.github.io/contact/
-- https://sibsfinx.github.io/privacy/
-- https://sibsfinx.github.io/cv.pdf
-- https://sibsfinx.github.io/llms.txt
-- https://sibsfinx.github.io/sitemap.xml
-- https://sibsfinx.github.io/robots.txt
+- https://alexmesch.com/
+- https://alexmesch.com/work/
+- https://alexmesch.com/about/
+- https://alexmesch.com/contact/
+- https://alexmesch.com/privacy/
+- https://alexmesch.com/cv.pdf
+- https://alexmesch.com/llms.txt
+- https://alexmesch.com/sitemap.xml
+- https://alexmesch.com/robots.txt
 
 ## Contact
 

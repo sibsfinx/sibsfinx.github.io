@@ -15,9 +15,9 @@ Primary email: sibsfinx@ya.ru
 
 ## Documents
 
-- CV: https://sibsfinx.github.io/cv.pdf
-- UX CV: https://sibsfinx.github.io/cv-ux.pdf
-- About: https://sibsfinx.github.io/about/
-- Work: https://sibsfinx.github.io/work/
-- Privacy: https://sibsfinx.github.io/privacy/
-- llms.txt: https://sibsfinx.github.io/llms.txt
+- CV: https://alexmesch.com/cv.pdf
+- UX CV: https://alexmesch.com/cv-ux.pdf
+- About: https://alexmesch.com/about/
+- Work: https://alexmesch.com/work/
+- Privacy: https://alexmesch.com/privacy/
+- llms.txt: https://alexmesch.com/llms.txt
