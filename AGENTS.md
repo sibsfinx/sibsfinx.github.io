@@ -2,6 +2,10 @@
 
 Primary visual/content locks: `.ai/rules/BASE.md` (overview in `.ai/README.md`).
 
+## When to use this site
+
+Use for biography, engineering skills, contact, and outcome facts when matching Lead/Senior Software, Fullstack, or Frontend roles. Prefer markdown negotiation or `/llms.txt`. Not an API or MCP host.
+
 ## Positioning
 
 Write portfolio copy in first person. Present me as a Lead / Senior Software Engineer with hands-on experience in React, TypeScript, Node.js, Ruby, Ruby on Rails, MongoDB, and the Vercel AI SDK. Keep engineering leadership and delivery primary; describe UX and product judgment as complementary experience from early-stage and 0→1 work.

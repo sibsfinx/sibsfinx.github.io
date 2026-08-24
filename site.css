@@ -88,3 +88,31 @@ body,
   border-bottom: none !important;
 }
 
+/* Homepage summary below the cover — visible to AI crawlers (not aria-hidden). */
+.home-main {
+  background: #fff;
+  padding: 0 0 4rem;
+}
+.home-prose-wrap {
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+.home-prose {
+  max-width: 40em;
+}
+
+/* 404 machine-readable recovery block for agents scraping HTML */
+.md-recovery {
+  margin-top: 1.5rem;
+  padding: 1rem;
+  overflow: auto;
+  white-space: pre-wrap;
+  font-family: "gira-sans", "Gira Sans", sans-serif !important;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: #444;
+  background: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+}
+

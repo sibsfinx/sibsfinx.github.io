@@ -14,7 +14,8 @@
     "clean": "make clean",
     "fetch": "make fetch",
     "preview:agentic": "node scripts/negotiate-server.mjs",
-    "prepare:netlify": "node scripts/prepare-netlify.mjs"
+    "prepare:netlify": "node scripts/prepare-netlify.mjs",
+    "test:agentic": "node scripts/agentic-checks.mjs"
   },
   "devDependencies": {
     "@types/fs-extra": "^11.0.4",

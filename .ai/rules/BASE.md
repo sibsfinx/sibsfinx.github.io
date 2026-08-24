@@ -10,6 +10,10 @@
 - **Do not** invent alternate UI: cream/paper backgrounds, serif “editorial” stacks, custom `.site-nav` bars, card layouts, purple gradients, or dashboard chrome.
 - Keep social label spelling parity with live when unsure (`Github` / `Linkedin` on older exports); newer GitHub/LinkedIn/Email labels are OK if already on the branch.
 
+## Homepage agent content
+
+Homepage must include a **visible** `<main class="home-main">` / `.home-prose` summary (≥500 characters of real text in raw HTML). Do not put the only biography in `aria-hidden` or `display:none` blocks — AI crawlers discount that.
+
 ## Homepage headline
 
 Canonical H1 (do not “improve” grammar or rewrite):
