@@ -26,3 +26,7 @@ In the right-hand `social-link--grid` column, put **About** and **Work** first (
 
 - Keep named outcomes for: Littledata, Vectary, Fohlio, IQ300, 3dEYE, Flow Health (and similar kept names).
 - **Do not name** Wecudos, SlidePresenter, or Brandymint. If needed, describe the work/achievement without those company names.
+
+## Background
+
+Canvas must stay solid white (`#fff`) on every breakpoint. Override Webflow mobile `#eee` cover gradients via `site.css`; never ship gray/cream page backgrounds.
