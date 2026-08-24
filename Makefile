@@ -1,8 +1,8 @@
 fetch:
 	make clean
-	yarn
-	yarn tsc
-	yarn node ./dist/fetch.js
+	pnpm install
+	pnpm run build
+	pnpm exec node ./dist/fetch.js
 	make move
 	make copy
 # make process
@@ -29,20 +29,16 @@ move:
 
 preview:
 	cd package && \
-	yarn http-server -c-1 -o .
+	pnpm exec http-server -c-1 -o .
 
 copy:
 	cp -r files/* package/
 
-# prepare-ci-env:
-# 	curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
-# 	npm install -g yarn
-
-prepare-ci-yarn:
+prepare-ci-pnpm:
 	nvm use
-	yarn set version 3.2.1
+	corepack enable
+	corepack prepare pnpm@11.22.0 --activate
 
-# make prepare-ci-env
 deploy-ci:
-	make prepare-ci-yarn
+	make prepare-ci-pnpm
 	make fetch

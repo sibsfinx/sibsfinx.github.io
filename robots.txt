@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Answer-time AI fetchers
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+Sitemap: https://sibsfinx.github.io/sitemap.xml
