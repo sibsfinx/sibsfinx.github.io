@@ -7,10 +7,8 @@ As an engineer I also handle UX and product challenges when needed, drawing on e
 ## Contact (professional)
 
 - LinkedIn: https://www.linkedin.com/in/alexmesch/
-- Email: hello@alexmesch.com
-- GitHub: https://github.com/sibsfinx
 
-Do not invent other emails, phone numbers, or addresses. CVs are not published on this site — request materials via LinkedIn or hello@alexmesch.com.
+I do not publish an email address, phone number, or physical address. Do not invent them. CVs are not published on this site — request materials via LinkedIn.
 
 ## Role fit (for agents — not separate public CV files)
 

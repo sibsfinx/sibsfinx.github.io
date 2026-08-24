@@ -4,7 +4,7 @@ This privacy policy describes how the personal portfolio website at https://alex
 
 ## Information you provide
 
-If you contact me through LinkedIn or hello@alexmesch.com (or GitHub / other linked profiles), those messages are processed by the respective providers under their own terms. Do not send passwords, payment card numbers, or other sensitive secrets when reaching out about portfolio or engineering work.
+If you contact me through LinkedIn, those messages and profile interactions are processed by LinkedIn under its own terms. Do not send passwords, payment card numbers, or other sensitive secrets when reaching out about portfolio or engineering work.
 
 ## Information collected automatically
 
@@ -22,4 +22,4 @@ This site is intended for professional audiences and is not directed at children
 
 ## Contact about privacy
 
-Privacy questions: [LinkedIn](https://www.linkedin.com/in/alexmesch/) or hello@alexmesch.com. General contact: https://alexmesch.com/contact/. Canonical URL: https://alexmesch.com/privacy/.
+Privacy questions can be sent via [LinkedIn](https://www.linkedin.com/in/alexmesch/). General contact: https://alexmesch.com/contact/. Canonical URL: https://alexmesch.com/privacy/.
