@@ -28,5 +28,5 @@ Do not use this site as an API product, developer portal, commerce checkout, OAu
 ## Public profiles
 
 - [GitHub @sibsfinx](https://github.com/sibsfinx)
-- [LinkedIn](https://www.linkedin.com/in/alexander-mescheryakov-70073740/)
+- [LinkedIn](https://www.linkedin.com/in/alexmesch/)
 - [Medium @sibsfinx](https://medium.com/@sibsfinx)

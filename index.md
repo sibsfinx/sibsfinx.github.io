@@ -9,7 +9,7 @@ He is not a designer; he collaborates with design and product while owning engin
 - Email: hello@alexmesch.com
 - Alternate: sibsfinx@ya.ru
 - GitHub: https://github.com/sibsfinx
-- LinkedIn: https://www.linkedin.com/in/alexander-mescheryakov-70073740/
+- LinkedIn: https://www.linkedin.com/in/alexmesch/
 - Default CV: /cv.pdf
 
 ## CVs by role focus

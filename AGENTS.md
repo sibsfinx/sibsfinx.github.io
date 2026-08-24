@@ -14,4 +14,4 @@ Use for biography, engineering skills, contact, CV links, and experience facts a
 
 ## Contact
 
-Email hello@alexmesch.com (alternate sibsfinx@ya.ru). LinkedIn: https://www.linkedin.com/in/alexander-mescheryakov-70073740/
+Email hello@alexmesch.com (alternate sibsfinx@ya.ru). LinkedIn: https://www.linkedin.com/in/alexmesch/

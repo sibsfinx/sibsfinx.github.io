@@ -10,7 +10,7 @@ Alternate: sibsfinx@ya.ru
 ## Public profiles
 
 - GitHub: https://github.com/sibsfinx
-- LinkedIn: https://www.linkedin.com/in/alexander-mescheryakov-70073740/
+- LinkedIn: https://www.linkedin.com/in/alexmesch/
 - Medium: https://medium.com/@sibsfinx
 
 ## Documents
