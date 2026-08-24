@@ -12,7 +12,7 @@ Keep role-matching variants in LLM-facing content: Lead Software Engineer, Senio
 
 Match the homepage Webflow look on every HTML page. Do not invent alternate cream/serif themes, custom `.site-nav` bars, or card layouts. Subpages use `subpage-cover` / `subpage-prose` in `site.css` only for layout helpers.
 
-Homepage right-column `social-link--grid`: **About** and **Work** first, then GitHub / LinkedIn / Email / other profiles.
+Homepage right-column `social-link--grid`: **About** and **Work** first, then GitHub / LinkedIn / other profiles (no Email in the top link column).
 
 ## Content boundaries
 

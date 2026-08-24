@@ -19,7 +19,7 @@ a AI–native product engineer with fullstack, engineering management and produc
 
 ## Homepage link column
 
-In the right-hand `social-link--grid` column, put **About** and **Work** first (above GitHub / LinkedIn / Email / other profiles).
+In the right-hand `social-link--grid` column, put **About** and **Work** first (above GitHub / LinkedIn / other profiles (no Email in the top link column)).
 
 ## Positioning & contact
 
@@ -41,6 +41,10 @@ In the right-hand `social-link--grid` column, put **About** and **Work** first (
 Site typeface is **Gira Sans** only (`gira-sans` via Adobe Fonts / Typekit kit `wma7yvn`).
 Load `https://use.typekit.net/wma7yvn.css` in `<head>` on every HTML page (with typekit preconnects) and keep `/site.css` font-family overrides.
 Do not use Lato, Space Mono, or other display stacks for UI copy. Ensure the Adobe Fonts kit allows the publish domains (alexmesch.com, Netlify previews) so the font is not missing.
+
+## Analytics
+
+Do not embed Yandex.Metrika or other first-party analytics counters.
 
 ## Background
 
