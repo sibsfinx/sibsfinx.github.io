@@ -24,3 +24,10 @@ Keep role-matching variants in LLM-facing content: Lead Software Engineer, Senio
 
 - LinkedIn: https://www.linkedin.com/in/alexmesch/
 - Email: hello@alexmesch.com
+
+
+## Visual style
+
+Match the homepage Webflow look on every HTML page. Do not invent alternate themes. See `.ai/rules/BASE.md`.
+Homepage right-column links: **About** and **Work** first, then profile/social links.
+On /work and mirrors, keep named outcomes only for companies already listed there; do not restore omitted early-career company names from old archives.

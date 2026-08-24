@@ -12,7 +12,7 @@ At Vectary, a US-based 3D/CAD/AR collaboration platform, I led React and TypeScr
 
 ## Earlier product engineering (0→1 / startups)
 
-In earlier roles, I built and modernized product experiences end to end, which developed my UX and product judgment as an engineer. At Fohlio (US), onboarding conversion increased **3×** after I joined. At IQ300, UI and front-end modernization contributed to **450%** active-user growth and a **120%** increase in signups. I also worked on design systems and front-end collaboration at SlidePresenter (Germany), with additional product engineering work for Wecudos (UK), 3dEYE (Canada), Flow Health (US), and Brandymint.
+In earlier roles, I built and modernized product experiences end to end, which developed my UX and product judgment as an engineer. At Fohlio (US), onboarding conversion increased **3×** after I joined. At IQ300, UI and front-end modernization contributed to **450%** active-user growth and a **120%** increase in signups. I also shipped design-system and front-end collaboration work, plus product engineering with teams including 3dEYE (Canada) and Flow Health (US).
 
 ## Links
 

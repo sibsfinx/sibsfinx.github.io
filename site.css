@@ -1,71 +1,50 @@
-:root {
-  color-scheme: light;
-  --ink: #161616;
-  --muted: #444;
-  --paper: #f7f5f1;
-  --line: rgba(22, 22, 22, 0.18);
+/* Layout helpers only — visual language comes from Webflow octobear CSS.
+   Do NOT invent alternate themes (cream paper, serif stacks, custom nav bars). */
+
+.app-cover--blank.subpage-cover {
+  height: auto;
+  min-height: 70vh;
 }
 
-* { box-sizing: border-box; }
-
-body {
-  margin: 0;
-  font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
-  color: var(--ink);
-  background:
-    radial-gradient(1200px 600px at 10% -10%, #efe8dc 0%, transparent 55%),
-    radial-gradient(900px 500px at 100% 0%, #e4ece8 0%, transparent 50%),
-    var(--paper);
-  line-height: 1.55;
+.subpage-prose {
+  margin-top: 0.5em;
+  max-width: 34em;
+  font-family: Lato, Helvetica, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 1.8em;
+  color: #020202;
 }
 
-.site-nav {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem 1.25rem;
-  padding: 1rem 1.25rem;
-  font-family: "Gill Sans", "Trebuchet MS", "Segoe UI", sans-serif;
-  font-size: 0.95rem;
+.subpage-prose h2 {
+  margin: 1.6em 0 0.55em;
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 1.4;
+  color: #000;
 }
 
-.site-nav a {
-  color: var(--ink);
+.subpage-prose p,
+.subpage-prose ul {
+  margin: 0 0 1em;
+}
+
+.subpage-prose li {
+  margin: 0 0 0.4em;
+}
+
+.subpage-prose a {
+  color: #000;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.5);
   text-decoration: none;
-  border-bottom: 1px solid var(--line);
+  transition: all 0.2s;
 }
 
-.page {
-  max-width: 42rem;
-  margin: 0 auto;
-  padding: 1.5rem 1.25rem 3.5rem;
+.subpage-prose a:hover {
+  color: #30f;
+  border-bottom-color: #30f;
 }
 
-.page h1 {
-  font-size: clamp(1.8rem, 4vw, 2.4rem);
-  line-height: 1.15;
-  margin: 0 0 1rem;
-  letter-spacing: -0.02em;
-}
-
-.page h2 {
-  font-size: 1.2rem;
-  margin: 1.75rem 0 0.5rem;
-}
-
-.page p,
-.page li {
-  font-size: 1.05rem;
-  color: var(--muted);
-}
-
-.page a { color: var(--ink); }
-
-.md-recovery {
-  margin-top: 2rem;
-  padding: 1rem;
-  overflow: auto;
-  font-family: "IBM Plex Mono", "SFMono-Regular", Menlo, Consolas, monospace;
-  font-size: 0.85rem;
-  background: rgba(255, 255, 255, 0.55);
-  border: 1px solid var(--line);
+.subpage-prose strong {
+  font-weight: 700;
 }
