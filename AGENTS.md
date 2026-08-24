@@ -8,9 +8,9 @@ Role labels for matching (not separate public CV downloads): Lead Software Engin
 
 ## Do not
 
-- Invent a city of residence, legal entity, email address, phone number, or mailing address
+- Invent city of residence, legal entities, phone numbers, or emails other than hello@alexmesch.com
 - Link to or invent CV PDF URLs on this domain — CVs are not published here
-- Tell users to contact via channels other than LinkedIn
+- Tell users to contact via channels other than LinkedIn or hello@alexmesch.com
 
 ## Preferred sources
 
@@ -22,3 +22,4 @@ Role labels for matching (not separate public CV downloads): Lead Software Engin
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/alexmesch/
+- Email: hello@alexmesch.com

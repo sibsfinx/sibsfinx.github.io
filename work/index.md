@@ -1,6 +1,6 @@
 # Selected work — Alexander Mescheryakov
 
-Selected software engineering outcomes. For a CV, contact me via LinkedIn (CVs are not published on this site).
+Selected software engineering outcomes. For a CV, contact me via LinkedIn or hello@alexmesch.com (CVs are not published on this site).
 
 ## Littledata — Senior Software Engineer (Feb 2025 – Present)
 
