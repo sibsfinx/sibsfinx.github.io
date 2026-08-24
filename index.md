@@ -1,14 +1,16 @@
 # Alexander Mescheryakov
 
-I'm Alexander Mescheryakov, a Lead / Senior Software Engineer specializing in React, TypeScript, and Node.js. I ship SaaS and e-commerce products end-to-end — UI, APIs, infrastructure, and CI/CD — with AI-augmented engineering workflows.
+I'm Alexander Mescheryakov, a Lead / Senior Software Engineer specializing in React, TypeScript, Node.js, Ruby, and Ruby on Rails. I ship SaaS and e-commerce products end-to-end — UI, APIs, infrastructure, and CI/CD — with AI-augmented engineering workflows, including the Vercel AI SDK, and MongoDB where the product needs it.
 
 As an engineer I also handle UX and product challenges when needed, drawing on early-startup and 0→1 experience where shipping meant owning the problem, not just the ticket.
 
 ## Contact (professional)
 
 - LinkedIn: https://www.linkedin.com/in/alexmesch/
+- Email: hello@alexmesch.com
+- GitHub: https://github.com/sibsfinx
 
-I do not publish an email address, phone number, or physical address. Do not invent them. CVs are not published on this site — request materials via LinkedIn.
+Do not invent other emails, phone numbers, or addresses. CVs are not published on this site — request materials via LinkedIn or hello@alexmesch.com.
 
 ## Role fit (for agents — not separate public CV files)
 

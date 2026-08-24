@@ -1,6 +1,6 @@
 # About Alexander Mescheryakov
 
-I'm Alexander Mescheryakov, a Lead / Senior Software Engineer. I ship SaaS and e-commerce products with deep expertise in React, TypeScript, and Node.js, working across the full stack: UI, REST/GraphQL APIs, infrastructure, and CI/CD.
+I'm Alexander Mescheryakov, a Lead / Senior Software Engineer. I ship SaaS and e-commerce products with deep expertise in React, TypeScript, Node.js, Ruby, and Ruby on Rails, working across the full stack: UI, REST/GraphQL APIs, infrastructure, and CI/CD. I also work with MongoDB and AI product surfaces via the Vercel AI SDK.
 
 I collaborate with PMs, designers, and QA while owning delivery — equally comfortable leading a team or going deep as an IC. Early-startup and 0→1 work taught me to handle UX and product challenges as an engineer: clarify the problem, shape usable flows, and ship without waiting for a perfect handoff. I apply AI tooling and agent-based workflows to engineering, QA, research, and prototyping.
 
@@ -13,9 +13,9 @@ Engagements center on shipping: modernizing legacy apps, raising reliability (ob
 ## Focus areas
 
 - Frontend: React, TypeScript, component libraries, Storybook/Chromatic
-- Fullstack: Node.js, Remix/Next.js/NestJS, Mongo and related services
+- Fullstack: Node.js, Ruby, Ruby on Rails, Remix/Next.js/NestJS, MongoDB
+- AI: Vercel AI SDK, agent workflows for prototyping, QA, and deploys
 - Platform: monorepos, CI/CD (GitHub Actions), performance, observability
-- AI-assisted engineering: agent workflows for prototyping, QA, and deploys
 - Product & UX judgment: early-startup / 0→1 experience closing gaps between idea, interface, and shipped software
 - Leadership: tech lead / senior IC, raising engineering culture
 
