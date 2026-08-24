@@ -22,9 +22,12 @@ a AI–native product engineer with fullstack, engineering management and produc
 Subpage H1 format: gray un-underlined `alexmesch.com` (links to `/`) + `&nbsp;&nbsp;` + page title, e.g. `alexmesch.com  Selected work`.
 Class: `page-crumb`. Do not put a Home item in the right-hand `social-link--grid`.
 
-## Homepage link column
+## Secondary nav (all pages)
 
-In the right-hand `social-link--grid` column, put **About** and **Work** first, then Contact, Privacy, GitHub, LinkedIn. **Do not** put Email or Home in the top social-link column on any page (home is via the `alexmesch.com` crumb). Contact channels remain LinkedIn or `hello@alexmesch.com` on `/contact` and in prose.
+Right-hand `social-link--grid` must be **identical on every page** (home and subpages):
+**About**, **Work**, GitHub, LinkedIn, Wellfound, Medium, Dribbble.
+No Home, Email, Contact, or Privacy in that column (Contact/Privacy via page content / crumbs as needed).
+
 
 ## Positioning & contact
 
