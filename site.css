@@ -1,6 +1,16 @@
 /* Layout helpers only — visual language comes from Webflow octobear CSS.
    Do NOT invent alternate themes (cream paper, serif stacks, custom nav bars). */
 
+/* Webflow mobile breakpoints paint #eee gradients on covers — force white always. */
+html,
+body,
+.app-container--blank,
+.app-cover--blank,
+.app-cover--blank.subpage-cover {
+  background-color: #fff !important;
+  background-image: none !important;
+}
+
 .app-cover--blank.subpage-cover {
   height: auto;
   min-height: 70vh;
