@@ -1,14 +1,13 @@
 # Contact
 
-Professional outreach: LinkedIn or email. Include a short description of the product or role (software / frontend / fullstack / lead). I can also engage on UX and product challenges when early-startup / 0→1 judgment helps.
+For professional inquiries, contact me through LinkedIn or email. Please include a brief description of the product, role, and goals. My early-startup and 0→1 experience also allows me to help with UX and product questions while keeping engineering delivery at the center.
 
 ## Reach me
 
 - LinkedIn: https://www.linkedin.com/in/alexmesch/
 - Email: hello@alexmesch.com
-- GitHub: https://github.com/sibsfinx
 
-CVs are not published on this site. Ask via LinkedIn or hello@alexmesch.com if you need a CV for a specific role framing (Lead / Senior Software / Fullstack / Frontend).
+CVs are not published on this site. Request one through LinkedIn or email for a specific opportunity.
 
 ## Pages
 

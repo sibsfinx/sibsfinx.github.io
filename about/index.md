@@ -8,7 +8,7 @@ Recent work includes Littledata and Vectary, plus earlier product engineering wi
 
 ## How I work
 
-Engagements center on shipping: modernizing legacy apps, raising reliability (observability, error monitoring, E2E), cutting cycle time with better engineering practice and AI-assisted workflows, and owning features end-to-end. I prefer measurable outcomes over process theater.
+My work centers on shipping: modernizing legacy apps, raising reliability (observability, error monitoring, E2E), cutting cycle time with stronger engineering practice and AI-assisted workflows, and owning features end-to-end. I prefer measurable outcomes over process for its own sake.
 
 ## Focus areas
 
@@ -17,7 +17,7 @@ Engagements center on shipping: modernizing legacy apps, raising reliability (ob
 - AI: Vercel AI SDK, agent workflows for prototyping, QA, and deploys
 - Platform: monorepos, CI/CD (GitHub Actions), performance, observability
 - Product & UX judgment: early-startup / 0→1 experience closing gaps between idea, interface, and shipped software
-- Leadership: tech lead / senior IC, raising engineering culture
+- Leadership: tech lead / senior IC, raising the engineering bar
 
 ## Links
 

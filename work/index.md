@@ -1,19 +1,19 @@
 # Selected work — Alexander Mescheryakov
 
-Selected software engineering outcomes. For a CV, contact me via LinkedIn (CVs are not published on this site).
+I focus on measurable software engineering outcomes. CVs are not published on this site; request one through [LinkedIn](https://www.linkedin.com/in/alexmesch/) or hello@alexmesch.com.
 
 ## Littledata — Senior Software Engineer (Feb 2025 – Present)
 
-Top-performing Shopify data-layer service for analytics and multi-channel ads. I rebuilt a legacy app to React, TypeScript, Node.js (Remix, NestJS, Next.js, Mongo) and ship features end-to-end with PM, design, and QA. Cut client-facing production issues to **zero**; reduced design/engineering/QA cycle time ~**50%**; improved delivery ~**30%** via Storybook/Chromatic; rolled out shared AI-assisted engineering workflows; modernized observability and E2E; GitHub Actions CI/CD to bare metal.
+At Littledata, a Shopify data-layer service for analytics and multi-channel advertising, I rebuilt a legacy application with React, TypeScript, and Node.js, including Remix, NestJS, Next.js, and MongoDB. I deliver features end to end with product, design, and QA. I reduced client-facing production issues to **zero**, shortened the design, engineering, and QA cycle by approximately **50%**, and improved delivery by approximately **30%** through Storybook and Chromatic. I also introduced shared AI-assisted workflows, strengthened observability and E2E coverage, and implemented GitHub Actions CI/CD for bare-metal deployments.
 
 ## Vectary — Lead / Senior Software Engineer · US (Mar 2021 – Feb 2025)
 
-VC-backed 3D/CAD/AR collaboration platform. I led React/TypeScript delivery with **10×** faster loading; **20×** faster monorepo builds and ~**30%** cheaper CI; managed a large monorepo (~45 packages) and migrated tooling to GitHub Actions; cut design/development cycles with a Storybook/Chromatic component system; performance work on API gateway and 3D viewers (Vite, WebGL, Three.js).
+At Vectary, a US-based 3D/CAD/AR collaboration platform, I led React and TypeScript delivery. I improved application loading by **10×** and monorepo builds by **20×** while reducing CI costs by approximately **30%**. I managed a monorepo of approximately 45 packages, migrated tooling to GitHub Actions, improved design and engineering collaboration through a Storybook and Chromatic component system, and optimized the API gateway and 3D viewers built with Vite, WebGL, and Three.js.
 
 ## Earlier product engineering (0→1 / startups)
 
-Earlier roles building and modernizing product surfaces end-to-end — useful grounding for UX and product judgment as an engineer: Fohlio (US) — onboarding funnel **3×** after joining; IQ300 — **450%** active-user growth and **120%** signup lift after UI/front-end modernization; SlidePresenter (Germany) — design-system and front-end collaboration; Wecudos (UK), 3dEYE (Canada), Flow Health (US), Brandymint.
+In earlier roles, I built and modernized product experiences end to end, which developed my UX and product judgment as an engineer. At Fohlio (US), onboarding conversion increased **3×** after I joined. At IQ300, UI and front-end modernization contributed to **450%** active-user growth and a **120%** increase in signups. I also worked on design systems and front-end collaboration at SlidePresenter (Germany), with additional product engineering work for Wecudos (UK), 3dEYE (Canada), Flow Health (US), and Brandymint.
 
 ## Links
 
-[Contact](/contact/) · [Home](/)
+[LinkedIn](https://www.linkedin.com/in/alexmesch/) · hello@alexmesch.com · [Home](/)

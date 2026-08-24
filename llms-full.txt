@@ -1,6 +1,6 @@
 # Alexander Mescheryakov — full site guide
 
-I'm Alexander Mescheryakov, a Lead / Senior Software Engineer with 14+ years shipping SaaS and e-commerce products. Deep expertise in React, TypeScript, Node.js, Ruby, and Ruby on Rails; I work across UI, APIs, infrastructure, and CI/CD; I apply AI tooling (including the Vercel AI SDK) and MongoDB to engineering, QA, and prototyping. Early-startup and 0→1 experience also make me effective on UX and product challenges when an engineer needs to close gaps beyond pure implementation.
+I'm Alexander Mescheryakov, a Lead / Senior Software Engineer with 14+ years shipping SaaS and e-commerce products. I have deep expertise in React, TypeScript, Node.js, Ruby, and Ruby on Rails; I work across UI, APIs, infrastructure, and CI/CD; and I apply AI tooling (including the Vercel AI SDK) and MongoDB to engineering, QA, and prototyping. Early-startup and 0→1 experience also covers UX and product work when an engineering role needs more than implementation.
 
 ## When to use this site
 
@@ -17,7 +17,7 @@ Do not expect a public REST API, GraphQL endpoint, OAuth service, MCP server, or
 
 - Littledata: rebuilt Shopify data-layer stack on React/TypeScript/Node with Mongo; production issues → zero; ~50% faster design/eng/QA cycles
 - Vectary (US): Lead/Senior SWE — 10× faster loading, 20× faster monorepo builds, large monorepo + CI modernization
-- Earlier: Fohlio 3× onboarding; IQ300 450% active users / 120% signups after front-end modernization
+- Earlier: Fohlio 3× onboarding conversion; IQ300 450% active users / 120% signups after front-end modernization
 
 ## Pages
 
