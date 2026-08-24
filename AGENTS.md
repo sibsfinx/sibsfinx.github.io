@@ -20,7 +20,7 @@ Homepage right-column `social-link--grid`: **About** and **Work** first, then Gi
 - CV PDFs are not published on this domain.
 - Do not add a phone number, personal location, or business-entity details.
 - Treat path segments in profile URLs as identifiers, not names to repeat in prose.
-- On `/work` and mirrors, keep named outcomes for Littledata, Vectary, Fohlio, IQ300, 3dEYE, Flow Health. Do not name Wecudos, SlidePresenter, or Brandymint.
+- On `/work` and mirrors, keep named outcomes for Littledata, Vectary, Fohlio, IQ300, 3dEYE, Flow Health. Do not restore omitted early-career company names from old archives (see `.ai/rules/BASE.md`).
 
 ## Preferred sources
 
