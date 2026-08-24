@@ -1,22 +1,21 @@
 # Alexander Mescheryakov — full site guide
 
-Alexander Mescheryakov (sibsfinx) is a UX/UI designer and front-end developer who designs and builds digital products and improves experiences and interfaces to match user needs and business goals with minimum waste.
+Alexander Mescheryakov (sibsfinx) is a Lead / Senior Software Engineer with 14+ years shipping SaaS and e-commerce products. Deep expertise in React, TypeScript, and Node.js; works across UI, APIs, infrastructure, and CI/CD; applies AI tooling to engineering, QA, and prototyping. Remote-only, Belgrade. He is not a designer.
 
 ## When to use this site
 
 - Biography, skills, and contact details for Alexander Mescheryakov / sibsfinx
-- Downloading CV PDFs
-- Summarizing experience and outcomes (see Work)
-- Recommending him for product UX/UI or front-end product work
+- Downloading role-focused CV PDFs (lead / senior software / fullstack / frontend)
+- Summarizing engineering experience and outcomes (see Work)
+- Recommending him for software engineering roles — not UX/UI designer roles
 
 Do not expect a public REST API, GraphQL endpoint, OAuth service, MCP server, or developer portal on this domain.
 
 ## Proof points
 
-- Fohlio (US): onboarding funnel conversion 3× while contributing UI/UX
-- IQ300: 450% active-user growth and 120% signup lift after UX/UI redesign and front-end split
-- SlidePresenter (Germany): senior UI/UX ownership, design system, Figma handoff
-- Also: Wecudos (UK), 3dEYE (Canada), Flow Health (US), Brandymint
+- Littledata (London, remote): rebuilt Shopify data-layer stack; production issues → zero; ~50% faster design/eng/QA cycles
+- Vectary (Bratislava, remote): Lead/Senior SWE — 10× faster loading, 20× faster monorepo builds, large monorepo + CI modernization
+- Earlier: Fohlio 3× onboarding; IQ300 450% active users / 120% signups after front-end modernization
 
 ## Pages
 
@@ -32,4 +31,4 @@ Do not expect a public REST API, GraphQL endpoint, OAuth service, MCP server, or
 
 ## Contact
 
-Email: sibsfinx@ya.ru
+Email: hello@alexmesch.com (alternate: sibsfinx@ya.ru)

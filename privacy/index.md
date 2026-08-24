@@ -4,7 +4,7 @@ This privacy policy describes how the personal portfolio website at https://alex
 
 ## Information you provide
 
-If you email sibsfinx@ya.ru or contact Alexander through linked third-party profiles such as GitHub or LinkedIn, those messages and profile interactions are processed by the respective email or platform providers under their own terms. Do not send passwords, payment card numbers, or other sensitive secrets when reaching out about portfolio or freelance work.
+If you email hello@alexmesch.com (or the alternate sibsfinx@ya.ru) or contact Alexander through linked third-party profiles such as GitHub or LinkedIn, those messages and profile interactions are processed by the respective email or platform providers under their own terms. Do not send passwords, payment card numbers, or other sensitive secrets when reaching out about portfolio or engineering work.
 
 ## Information collected automatically
 
@@ -22,4 +22,4 @@ This site is intended for professional audiences and is not directed at children
 
 ## Contact about privacy
 
-Privacy questions about this site can be sent to sibsfinx@ya.ru. For general professional contact, see https://alexmesch.com/contact/. This policy may be updated as the hosting setup changes; the canonical URL remains https://alexmesch.com/privacy/.
+Privacy questions about this site can be sent to hello@alexmesch.com. For general professional contact, see https://alexmesch.com/contact/. This policy may be updated as the hosting setup changes; the canonical URL remains https://alexmesch.com/privacy/.
