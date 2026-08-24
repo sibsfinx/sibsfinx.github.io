@@ -1,11 +1,27 @@
+# Free-plan posture (Netlify credit-based Free):
+# - 300 credits/month HARD LIMIT — sites pause when exhausted; Free does NOT auto-recharge
+#   and does NOT bill overages. Stay on Free; on Personal/Pro keep auto-recharge OFF.
+# - This config uses only Free-safe features: static publish + one Edge Function for
+#   HTML Accept negotiation. No Netlify Functions, Blobs, DB, AI Gateway, Image CDN,
+#   Forms paid addons, or Background Functions.
+# - Production deploys cost ~15 credits each; Deploy Previews / branch deploys are 0.
+# - Bandwidth ~20 credits/GB; web requests (incl. Edge invocations) ~2 credits/10k.
+# - Edge does NOT count as compute GB-hour. Most homepage images are on Webflow CDN
+#   (not Netlify bandwidth).
+# - Build is zero-dep Node (stdlib only); skip npm/pnpm install so Netlify does not
+#   pull package.json's heavy devDependencies.
+
 [build]
+  # Stdlib-only prepare script — no node_modules required.
   command = "node scripts/prepare-netlify.mjs"
   publish = "dist"
 
 [build.environment]
-  NODE_VERSION = "26"
+  NODE_VERSION = "22"
+  # Avoid installing pnpm/node_modules from package.json (heavy scrapers/tsc unused here).
+  NETLIFY_SKIP_DEPENDENCY_INSTALL = "true"
 
-# Markdown negotiation + agent-friendly 404s (Accept: text/markdown)
+# Markdown negotiation only on HTML document routes (not static assets).
 [[edge_functions]]
   function = "negotiate"
   path = "/*"
@@ -13,15 +29,35 @@
     "/css/*",
     "/js/*",
     "/images/*",
+    "/fonts/*",
+    "/*.css",
+    "/*.js",
+    "/*.mjs",
+    "/*.map",
+    "/*.md",
+    "/*.txt",
+    "/*.xml",
+    "/*.json",
     "/*.pdf",
     "/*.png",
     "/*.jpg",
     "/*.jpeg",
+    "/*.webp",
     "/*.gif",
     "/*.svg",
+    "/*.avif",
     "/*.ico",
     "/*.woff",
-    "/*.woff2"
+    "/*.woff2",
+    "/*.ttf",
+    "/*.otf",
+    "/*.eot",
+    "/*.mp4",
+    "/*.webm",
+    "/*.mp3",
+    "/*.wav",
+    "/*.ogg",
+    "/*.zip"
   ]
 
 # Pretty folder indexes already use about/index.html etc.

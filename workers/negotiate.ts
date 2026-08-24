@@ -90,7 +90,7 @@ export default {
       const res = await env.ASSETS.fetch(request);
       const out = new Response(res.body, res);
       // Do not set Vary: Accept — static assets do not vary by Accept.
-      if (url.pathname.endsWith(".md")) {
+      if (url.pathname.endsWith(".md") && out.status === 200) {
         out.headers.set("Content-Type", "text/markdown; charset=utf-8");
       }
       return out;

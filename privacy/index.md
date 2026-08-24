@@ -8,11 +8,13 @@ If you email sibsfinx@ya.ru or contact Alexander through linked third-party prof
 
 ## Information collected automatically
 
-Like most websites, hosting providers and content delivery networks may record standard technical logs such as IP address, user agent, requested URL, and timestamp in order to operate security, reliability, and abuse prevention. This site may also be mirrored or scanned by public search engines and AI retrieval agents that fetch openly published pages. No intentional advertising tracking pixels are required to read the main portfolio content.
+Like most websites, hosting providers and content delivery networks may record standard technical logs such as IP address, user agent, requested URL, and timestamp in order to operate security, reliability, and abuse prevention. This site may also be mirrored or scanned by public search engines and AI retrieval agents that fetch openly published pages. No advertising network pixels are required to read the main portfolio content.
 
 ## Cookies and analytics
 
-The core pages are static files. If a future deployment enables optional analytics, that tooling will be disclosed here. Third-party fonts, repositories, or LinkedIn/GitHub destinations may set their own cookies once you leave this domain; their policies apply on those properties.
+The homepage embeds **Yandex.Metrika** (counter id `5307190`): a JavaScript tag plus a `<noscript>` pixel image hosted by Yandex. That tooling may collect visit metrics such as page views, referrers, device/browser data, and session behavior (including clickmap / webvisor features configured in the embed) under Yandex’s privacy terms. Secondary pages (`/about`, `/work`, `/contact`, `/privacy`) do not include Metrika today.
+
+Third-party fonts, repositories, or LinkedIn/GitHub destinations may set their own cookies once you leave this domain; their policies apply on those properties.
 
 ## Children
 
