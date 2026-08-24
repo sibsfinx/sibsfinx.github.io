@@ -1,26 +1,27 @@
 # About Alexander Mescheryakov
 
-I'm Alexander Mescheryakov, a Lead / Senior Software Engineer. I ship SaaS and e-commerce products with deep expertise in React, TypeScript, Node.js, Ruby, and Ruby on Rails, working across the full stack: UI, REST/GraphQL APIs, infrastructure, and CI/CD. I also work with MongoDB and AI product surfaces via the Vercel AI SDK.
+I'm Alexander Mescheryakov, a Lead / Senior Software Engineer. I deliver SaaS and e-commerce products with React, TypeScript, Node.js, Ruby, and Ruby on Rails, working across interfaces, REST and GraphQL APIs, infrastructure, and CI/CD. I use MongoDB and the Vercel AI SDK where they fit the product.
 
-I collaborate with PMs, designers, and QA while owning delivery — equally comfortable leading a team or going deep as an IC. Early-startup and 0→1 work taught me to handle UX and product challenges as an engineer: clarify the problem, shape usable flows, and ship without waiting for a perfect handoff. I apply AI tooling and agent-based workflows to engineering, QA, research, and prototyping.
+I collaborate with product managers, designers, and QA while owning delivery. I'm equally comfortable leading a team or contributing as a hands-on technical IC. Early-startup and 0→1 work taught me to turn ambiguous requirements into usable flows and production software. I use AI-assisted workflows selectively in engineering, QA, research, and prototyping.
 
 Recent work includes Littledata and Vectary, plus earlier product engineering with teams in the US, UK, Germany, and Canada.
 
 ## How I work
 
-My work centers on shipping: modernizing legacy apps, raising reliability (observability, error monitoring, E2E), cutting cycle time with stronger engineering practice and AI-assisted workflows, and owning features end-to-end. I prefer measurable outcomes over process for its own sake.
+My work centers on modernizing legacy applications, improving reliability through observability, error monitoring, and E2E coverage, shortening cycle time, and owning features end to end. I prioritize measurable outcomes and maintainable engineering practices.
 
 ## Focus areas
 
 - Frontend: React, TypeScript, component libraries, Storybook/Chromatic
-- Fullstack: Node.js, Ruby, Ruby on Rails, Remix/Next.js/NestJS, MongoDB
-- AI: Vercel AI SDK, agent workflows for prototyping, QA, and deploys
+- Full-stack: Node.js, Ruby, Ruby on Rails, Remix, Next.js, NestJS, MongoDB
+- AI-assisted engineering: Vercel AI SDK, prototyping, QA, and delivery workflows
 - Platform: monorepos, CI/CD (GitHub Actions), performance, observability
-- Product & UX judgment: early-startup / 0→1 experience closing gaps between idea, interface, and shipped software
-- Leadership: tech lead / senior IC, raising the engineering bar
+- Product and UX judgment: early-startup and 0→1 experience connecting ideas, interfaces, and shipped software
+- Leadership: technical direction, hands-on senior IC delivery, and engineering standards
 
 ## Links
 
-- [Contact](/contact/)
+- [LinkedIn](https://www.linkedin.com/in/alexmesch/)
+- Email: hello@alexmesch.com
 - [llms.txt](/llms.txt)
 - [Home](/)

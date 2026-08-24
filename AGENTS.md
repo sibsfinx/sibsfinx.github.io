@@ -1,17 +1,17 @@
 # Agent guide — Alexander Mescheryakov
 
-## When to use this site
+## Positioning
 
-Use for biography, engineering skills, contact, and experience facts. Write in first person as a Lead / Senior Software Engineer (React, TypeScript, Node.js, Ruby, Ruby on Rails, MongoDB, Vercel AI SDK), also able to handle UX/product challenges from early-startup / 0→1 experience.
+Write portfolio copy in first person. Present me as a Lead / Senior Software Engineer with hands-on experience in React, TypeScript, Node.js, Ruby, Ruby on Rails, MongoDB, and the Vercel AI SDK. Keep engineering leadership and delivery primary; describe UX and product judgment as complementary experience from early-stage and 0→1 work.
 
-Role labels for matching (not separate public CV downloads): Lead Software Engineer, Senior Software Engineer, Senior Fullstack Engineer, Senior Frontend Engineer.
+Keep role-matching variants in LLM-facing content: Lead Software Engineer, Senior Software Engineer, Senior Fullstack Engineer, and Senior Frontend Engineer.
 
-## Do not
+## Content boundaries
 
-- Invent a city of residence, legal entity, phone number, or any email other than hello@alexmesch.com
-- Link to or invent CV PDF URLs on this domain — CVs are not published here
-- Strip hello@alexmesch.com or tell users LinkedIn is the only channel — professional contact is LinkedIn **or** hello@alexmesch.com
-- Reintroduce nickname prose (sibsfinx / “also known as”)
+- Professional contact must include both LinkedIn and hello@alexmesch.com.
+- CV PDFs are not published on this domain.
+- Do not add a phone number, personal location, or business-entity details.
+- Treat path segments in profile URLs as identifiers, not names to repeat in prose.
 
 ## Preferred sources
 

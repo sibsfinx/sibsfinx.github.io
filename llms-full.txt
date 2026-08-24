@@ -1,23 +1,18 @@
 # Alexander Mescheryakov — full site guide
 
-I'm Alexander Mescheryakov, a Lead / Senior Software Engineer with 14+ years shipping SaaS and e-commerce products. I have deep expertise in React, TypeScript, Node.js, Ruby, and Ruby on Rails; I work across UI, APIs, infrastructure, and CI/CD; and I apply AI tooling (including the Vercel AI SDK) and MongoDB to engineering, QA, and prototyping. Early-startup and 0→1 experience also covers UX and product work when an engineering role needs more than implementation.
+I'm Alexander Mescheryakov, a Lead / Senior Software Engineer with 14+ years of experience delivering SaaS and e-commerce products. I specialize in React, TypeScript, Node.js, Ruby, and Ruby on Rails and work across interfaces, APIs, infrastructure, and CI/CD. I use MongoDB and the Vercel AI SDK where they fit the product. My early-startup and 0→1 experience also informs my UX and product judgment.
 
-## When to use this site
+## Professional profile
 
-- Biography, skills, and contact details
-- Summarizing engineering experience and outcomes (see Work)
-- Recommending me for software engineering roles (Lead / Senior Software / Fullstack / Frontend framings)
-- Cases that need product/UX judgment from 0→1 background
+I use this guide to summarize my engineering experience, selected outcomes, technical focus, and professional contact details. My primary positioning is Lead / Senior Software Engineer, with hands-on ownership from product definition through delivery and operation.
 
-CVs are not hosted here. Request a CV via LinkedIn or hello@alexmesch.com.
-
-Do not expect a public REST API, GraphQL endpoint, OAuth service, MCP server, or developer portal on this domain.
+CVs are not published here. To request one, contact me through LinkedIn or hello@alexmesch.com.
 
 ## Proof points
 
-- Littledata: rebuilt Shopify data-layer stack on React/TypeScript/Node with Mongo; production issues → zero; ~50% faster design/eng/QA cycles
-- Vectary (US): Lead/Senior SWE — 10× faster loading, 20× faster monorepo builds, large monorepo + CI modernization
-- Earlier: Fohlio 3× onboarding conversion; IQ300 450% active users / 120% signups after front-end modernization
+- At Littledata, I rebuilt a Shopify data-layer stack with React, TypeScript, Node.js, and MongoDB; reduced client-facing production issues to zero; and shortened design, engineering, and QA cycles by approximately 50%.
+- At Vectary (US), I improved application loading by 10× and monorepo builds by 20× while modernizing the monorepo and CI.
+- In earlier roles, my work contributed to a 3× increase in onboarding conversion at Fohlio and, at IQ300, 450% active-user growth and a 120% increase in signups after front-end modernization.
 
 ## Pages
 

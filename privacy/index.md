@@ -1,25 +1,25 @@
 # Privacy — alexmesch.com
 
-I operate the personal portfolio at https://alexmesch.com/. This policy describes how the site handles information. It is a static public portfolio used to share professional information and public profile links — not a social network, marketplace, or account-based product. CVs are not published on this site.
+I use https://alexmesch.com/ as a static public portfolio for professional information and profile links. It does not provide accounts, transactions, or user-generated content. I do not publish CVs on this site.
 
 ## Information you provide
 
-If you contact me through LinkedIn or hello@alexmesch.com (or GitHub / other linked profiles), those messages are processed by the respective providers under their own terms. Do not send passwords, payment card numbers, or other sensitive secrets when reaching out about portfolio or engineering work.
+If you contact me through LinkedIn or hello@alexmesch.com, the relevant service provider processes your message under its own terms. Please do not send passwords, payment card details, or other sensitive information in a professional inquiry.
 
 ## Information collected automatically
 
-Hosting providers and content delivery networks may record standard technical logs such as IP address, user agent, requested URL, and timestamp in order to operate security, reliability, and abuse prevention. Search engines and other crawlers may also fetch publicly published pages. The main portfolio pages do not use advertising-network pixels.
+Hosting providers and content delivery networks may record standard technical logs, such as IP address, user agent, requested URL, and timestamp, for security, reliability, and abuse prevention. Public search engines may also index the pages I publish.
 
 ## Cookies and analytics
 
-The homepage embeds **Yandex.Metrika** (counter id `5307190`): a JavaScript tag plus a `<noscript>` pixel image hosted by Yandex. That tooling may collect visit metrics such as page views, referrers, device/browser data, and session behavior (including clickmap / webvisor features configured in the embed) under Yandex’s privacy terms. Secondary pages (`/about`, `/work`, `/contact`, `/privacy`) do not include Metrika.
+I use **Yandex.Metrika** on the homepage (counter ID `5307190`) through a JavaScript tag and a `<noscript>` pixel hosted by Yandex. It may collect page views, referrers, device and browser data, and session behavior, including the configured clickmap and Webvisor features, under Yandex’s privacy terms. Secondary pages (`/about`, `/work`, `/contact`, `/privacy`) do not include Metrika.
 
-Third-party fonts, repositories, or LinkedIn/GitHub destinations may set their own cookies once you leave this domain; their policies apply on those properties.
+Third-party font services and linked sites such as LinkedIn and GitHub may set their own cookies. Their privacy policies apply when you use those services.
 
 ## Children
 
-This site is intended for professional audiences and is not directed at children under 16. I do not knowingly collect personal information from children through this portfolio.
+I publish this site for professional audiences; it is not directed at children under 16. I do not knowingly collect personal information from children through this portfolio.
 
 ## Contact about privacy
 
-Privacy questions: [LinkedIn](https://www.linkedin.com/in/alexmesch/) or hello@alexmesch.com. General contact: https://alexmesch.com/contact/.
+For privacy questions, contact me through [LinkedIn](https://www.linkedin.com/in/alexmesch/) or hello@alexmesch.com. General contact information is available at https://alexmesch.com/contact/.
