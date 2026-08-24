@@ -10,6 +10,13 @@
 - **Do not** invent alternate UI: cream/paper backgrounds, serif “editorial” stacks, custom `.site-nav` bars, card layouts, purple gradients, or dashboard chrome.
 - Keep social label spelling parity with live when unsure (`Github` / `Linkedin` on older exports); newer GitHub/LinkedIn/Email labels are OK if already on the branch.
 
+## Homepage headline
+
+Canonical H1 (do not “improve” grammar or rewrite):
+
+Alexander Mescheryakov,
+a AI–native product engineer with fullstack, engineering management and product experience, building scalable systems from 0 to 1 and delivering end–to–end
+
 ## Homepage link column
 
 In the right-hand `social-link--grid` column, put **About** and **Work** first (above GitHub / LinkedIn / Email / other profiles).
