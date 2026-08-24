@@ -1,23 +1,22 @@
 # About Alexander Mescheryakov
 
-I'm Alexander Mescheryakov, a Lead / Senior Software Engineer. I deliver SaaS and e-commerce products with React, TypeScript, Node.js, Ruby, and Ruby on Rails, working across interfaces, REST and GraphQL APIs, infrastructure, and CI/CD. I use MongoDB and the Vercel AI SDK where they fit the product.
+I'm a senior software engineer with 15 years of experience building and scaling SaaS and e-commerce products — the last 12 fully remote, embedded in product and design teams.
 
-I collaborate with product managers, designers, and QA while owning delivery. I'm equally comfortable leading a team or contributing as a hands-on technical IC. Early-startup and 0→1 work taught me to turn ambiguous requirements into usable flows and production software. I use AI-assisted workflows selectively in engineering, QA, research, and prototyping.
+My focus: shipping high-quality frontend at speed, with zero tolerance for production errors. At my current role, I rebuilt a legacy Meteor app into a modern React/TypeScript/Node.js stack, cut the design-to-release cycle by ~50%, and brought frontend production errors down to zero across client-facing releases.
 
-Recent work includes Littledata and Vectary, plus earlier product engineering with teams in the US, UK, Germany, and Canada.
+I work across the full delivery stack — React, TypeScript, Node.js, APIs, infrastructure, CI/CD — and I've been running AI-augmented workflows (Cursor, Claude, Copilot) for day-to-day engineering, QA, and prototyping since before it was mainstream. I rolled out shared AI tooling across teams: memory, skills, and commands.
 
-## How I work
+Strong on design systems, developer experience, and observability. I've led small frontend teams and worked closely with PMs, designers, and backend engineers throughout my career.
 
-My work centers on modernizing legacy applications, improving reliability through observability, error monitoring, and E2E coverage, shortening cycle time, and owning features end to end. I prioritize measurable outcomes and maintainable engineering practices.
+Currently open to senior/staff remote roles at product companies and startups. B2B contract, EOR, direct employment. Timezone-flexible (based in Belgrade).
 
-## Focus areas
+## Stack
 
-- Frontend: React, TypeScript, component libraries, Storybook/Chromatic
-- Full-stack: Node.js, Ruby, Ruby on Rails, Remix, Next.js, NestJS, MongoDB
-- AI-assisted engineering: Vercel AI SDK, prototyping, QA, and delivery workflows
-- Platform: monorepos, CI/CD (GitHub Actions), performance, observability
-- Product and UX judgment: early-startup and 0→1 experience connecting ideas, interfaces, and shipped software
-- Leadership: technical direction, hands-on senior IC delivery, and engineering standards
+React · TypeScript · Node.js · Ruby · GraphQL · Storybook · AWS · Docker · Playwright · Figma
+
+## Skills
+
+React | TypeScript | JavaScript | Node.js | Ruby | Frontend Architecture | Design Systems (Storybook, Chromatic) | Testing (E2E, Unit, Integration, AI) | Performance Optimization | Observability (Sentry, ELK) | REST APIs | GraphQL | Docker | CI/CD Pipelines (GitHub Actions, CircleCI) | Cloud platforms (AWS, GCP) | Monorepos | Build systems (Vite, Webpack) | Playwright | Cursor | Claude Code | Codex | Github Copilot | Product Collaboration | Distributed teams | Product ownership | AI-assisted Engineering | AI Agent Workflows | LLM Integration
 
 ## Links
 
