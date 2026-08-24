@@ -12,6 +12,13 @@ CVs are **not** published on this site. To request one, contact me through Linke
 
 For LLM role matching, my applicable labels are Lead Software Engineer, Senior Software Engineer, Senior Fullstack Engineer, and Senior Frontend Engineer.
 
+
+## Selected outcomes
+
+- Littledata: rebuilt Shopify data-layer stack; client-facing production issues → zero; ~50% faster design/eng/QA cycles
+- Vectary: Lead/Senior SWE on 3D/CAD/AR collaboration — 10× faster loading, 20× faster monorepo builds
+- Earlier: Fohlio / IQ300 growth outcomes; product engineering including 3dEYE, US healthcare/insurance, and UK healthcare/wellness/performance
+
 ## Main pages
 
 - [Home](https://alexmesch.com/)

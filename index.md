@@ -20,6 +20,10 @@ My applicable role-matching labels are:
 - Senior Fullstack Engineer
 - Senior Frontend Engineer
 
+## Selected work
+
+See [/work/](/work/) for outcomes at Littledata and Vectary, plus earlier product engineering (Fohlio, IQ300, 3dEYE, US healthcare/insurance, UK healthcare/wellness/performance).
+
 ## Pages
 
 - [About](/about/)

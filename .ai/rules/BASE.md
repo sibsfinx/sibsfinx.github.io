@@ -38,8 +38,8 @@ In the right-hand `social-link--grid` column, put **About** and **Work** first, 
 
 ## Company naming on /work and mirrors
 
-- Keep named outcomes for: Littledata, Vectary, Fohlio, IQ300, 3dEYE. Do not name Flow Health — describe as US healthcare/insurance when needed. Anonymous UK work: UK healthcare/wellness/performance.
-- **Do not name** Wecudos, SlidePresenter, or Brandymint. If needed, describe the work/achievement without those company names.
+- Keep named outcomes for: Littledata, Vectary, Fohlio, IQ300, 3dEYE. Unnamed healthcare engagements: US healthcare/insurance; UK healthcare/wellness/performance (never “Flow Health”).
+- **Do not name** Wecudos, SlidePresenter, Brandymint, or Flow Health. If needed, describe the work/achievement without those company names.
 
 ## Typography
 
