@@ -38,11 +38,19 @@ const visible = stripTags(indexHtml);
 ok("dist/.ai is not published", !fs.existsSync(path.join(root, "dist", ".ai")));
 
 ok("homepage has H1", /<h1[\s>]/i.test(indexHtml));
+ok("homepage has H2 structure", (indexHtml.match(/<h2[\s>]/gi) || []).length >= 2);
 ok("homepage visible text >= 500 chars", visible.length >= 500, `got ${visible.length}`);
 ok("homepage has no aria-hidden agent dump", !/class=["']agent-seo["']/.test(indexHtml));
 ok("homepage has JSON-LD", /application\/ld\+json/.test(indexHtml));
 ok("JSON-LD includes Person", /"@type"\s*:\s*"Person"/.test(indexHtml));
 ok("JSON-LD includes WebSite", /"@type"\s*:\s*"WebSite"/.test(indexHtml));
+ok("JSON-LD includes Organization", /"@type"\s*:\s*"Organization"/.test(indexHtml));
+ok("Organization has contactPoint", /"contactPoint"/.test(indexHtml) && /"contactType"/.test(indexHtml));
+ok("Organization has PostalAddress", /"@type"\s*:\s*"PostalAddress"/.test(indexHtml) && /Belgrade/.test(indexHtml));
+ok("brand domain in title", /<title>[^<]*alexmesch\.com[^<]*<\/title>/i.test(indexHtml));
+ok("og:site_name is alexmesch.com", /og:site_name"\s+content="alexmesch\.com"/.test(indexHtml));
+ok("profile image has brand alt", /alt="Alexander Mescheryakov"/.test(indexHtml));
+ok("homepage names alexmesch.com in prose", /alexmesch\.com/.test(stripTags(indexHtml)));
 
 const llms = fs.readFileSync(path.join(root, "llms.txt"), "utf8");
 ok("llms.txt has When to use this site", /## When to use this site/i.test(llms));
@@ -135,7 +143,11 @@ async function live() {
   const homeHtml = await home.text();
   ok("live homepage 200", home.status === 200);
   ok("live homepage visible >= 500", stripTags(homeHtml).length >= 500, `got ${stripTags(homeHtml).length}`);
+  ok("live homepage has H2", (homeHtml.match(/<h2[\s>]/gi) || []).length >= 2);
   ok("live homepage JSON-LD", /application\/ld\+json/.test(homeHtml));
+  ok("live Organization contactPoint", /"contactPoint"/.test(homeHtml));
+  ok("live Organization PostalAddress", /PostalAddress/.test(homeHtml));
+  ok("live brand in title", /alexmesch\.com/i.test((homeHtml.match(/<title>([^<]*)<\/title>/i) || [])[1] || ""));
 
   const md = await fetch(u + "/", { headers: { Accept: "text/markdown" } });
   const mdCt = md.headers.get("content-type") || "";
