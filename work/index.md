@@ -1,6 +1,6 @@
 # Selected work — Alexander Mescheryakov
 
-I focus on measurable software engineering outcomes.
+I focus on engineering outcomes and processes that drive business, not just follow it: speeding up time–to–market, flexibility, proactive quality, stability and performance improvements, getting rid of manual routine work.
 
 ## Littledata — Senior Software Engineer (Feb 2025 – Present)
 
