@@ -19,7 +19,7 @@ Homepage must include a **visible** `<main class="home-main">` / `.home-prose` s
 Canonical H1 (do not “improve” grammar or rewrite):
 
 Alexander Mescheryakov,
-a AI–native product engineer with fullstack, engineering management and product experience, building scalable systems from 0 to 1 and delivering end–to–end
+an AI–native product engineer with fullstack, engineering management and product experience, building scalable systems from 0 to 1 and delivering end–to–end
 
 ## Subpage heading crumb
 
