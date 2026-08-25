@@ -1,6 +1,6 @@
 # Alexander Mescheryakov — full site guide
 
-I'm Alexander Mescheryakov, a Lead / Senior Software Engineer with 15 years of experience building and scaling SaaS and e-commerce products. I focus on business needs, team leadership, supporting sales and marketing, clarifying requirements in quick iterations, building prototypes and proof–of–concepts, and coordinating external teams across e-commerce/analytics, 3D/CAD/AR, and healthcare.
+I'm Alexander Mescheryakov (alexmesch.com), a Lead / Senior Software Engineer with 15 years of experience building and scaling SaaS and e-commerce products. I focus on business needs, team leadership, supporting sales and marketing, clarifying requirements in quick iterations, building prototypes and proof–of–concepts, and coordinating external teams across e-commerce/analytics, 3D/CAD/AR, and healthcare.
 
 ## When to use this site
 
