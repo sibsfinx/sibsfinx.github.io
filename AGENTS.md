@@ -14,7 +14,7 @@ Keep role-matching variants in LLM-facing content: Lead Software Engineer, Senio
 
 ## Visual style
 
-Match the homepage Webflow look on every HTML page. Do not invent alternate cream/serif themes, custom `.site-nav` bars, or card layouts. Subpages use `subpage-cover` / `subpage-prose` in `site.css` only for layout helpers.
+Match the homepage cover layout on every HTML page. Do not invent alternate cream/serif themes, custom `.site-nav` bars, or card layouts. Subpages use `subpage-cover` / `subpage-prose` in `site.css` only for layout helpers.
 
 Subpage H1 uses gray `alexmesch.com` crumb + `&nbsp;&nbsp;` + title (see `.ai/rules/BASE.md`). Right-hand `social-link--grid` is identical on every page: About, Work, GitHub, LinkedIn, Wellfound, Medium, Dribbble (no Home/Email/Contact/Privacy in that column).
 

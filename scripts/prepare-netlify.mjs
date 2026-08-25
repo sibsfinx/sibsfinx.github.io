@@ -21,7 +21,7 @@ const files = [
   "AGENTS.md",
 ];
 
-const dirs = ["about", "work", "contact", "privacy", "images"];
+const dirs = ["about", "work", "contact", "privacy", "images", "css"];
 
 function rmrf(p) {
   fs.rmSync(p, { recursive: true, force: true });

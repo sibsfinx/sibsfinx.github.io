@@ -12,17 +12,19 @@ clean:
 
 process:
 	find package -type f -exec sed -i \
-	-e 's/w-webflow-badge/u__badge u__hide/g' \
+	-e 's/w-webflow-badge/site-badge/g' \
 	-e 's/index\.html//g' \
-	-e 's/octobear.webflow.io//g' \
+	-e 's/octobear\.webflow\.io//g' \
 	{} +
 
-# -e 's/uploads-ssl.webflow.com/assets/g' \
+# Historical scrape asset host (optional):
+# -e 's/uploads-ssl.webflow.com/assets/g' /
 
 move:
 	echo "move assets"
+	# Historical scrape nests under the export hostname directory
 	mv package/octobear.webflow.io/* package || true
-	
+
 # mv package/uploads-ssl.webflow.com/* package/assets || true
 # mkdir -p package/images
 # mv package/**/*{.png,.jpg,.jpeg,.gif,.svg} package/images || true

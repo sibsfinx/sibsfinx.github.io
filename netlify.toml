@@ -6,8 +6,7 @@
 #   Forms paid addons, or Background Functions.
 # - Production deploys cost ~15 credits each; Deploy Previews / branch deploys are 0.
 # - Bandwidth ~20 credits/GB; web requests (incl. Edge invocations) ~2 credits/10k.
-# - Edge does NOT count as compute GB-hour. Most homepage images are on Webflow CDN
-#   (not Netlify bandwidth).
+# - Edge does NOT count as compute GB-hour. Profile photo is served from /images on Netlify.
 # - Build is zero-dep Node (stdlib only); skip npm/pnpm install so Netlify does not
 #   pull package.json's heavy devDependencies.
 

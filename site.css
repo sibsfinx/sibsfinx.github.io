@@ -1,7 +1,7 @@
-/* Layout helpers only — visual language comes from Webflow octobear CSS.
+/* Layout helpers only — visual language comes from local css/layout.css.
    Do NOT invent alternate themes (cream paper, serif stacks, custom nav bars). */
 
-/* Gira Sans everywhere (Adobe Fonts kit wma7yvn). Override Webflow Lato defaults. */
+/* Gira Sans everywhere (Adobe Fonts kit wma7yvn). Override legacy Lato defaults. */
 html,
 body,
 body *,
@@ -18,7 +18,7 @@ body *,
   font-family: "gira-sans", "Gira Sans", sans-serif !important;
 }
 
-/* Webflow mobile breakpoints paint #eee gradients on covers — force white always. */
+/* Legacy mobile breakpoints paint #eee gradients on covers — force white always. */
 html,
 body,
 .app-container--blank,
@@ -28,9 +28,13 @@ body,
   background-image: none !important;
 }
 
+.app-cover--blank {
+  height: 50vh !important;
+  min-height: 50vh !important;
+}
 .app-cover--blank.subpage-cover {
-  height: auto;
-  min-height: 70vh;
+  height: auto !important;
+  min-height: 50vh !important;
 }
 
 .subpage-prose {
