@@ -1,6 +1,6 @@
 # Alexander Mescheryakov
 
-> I'm Alexander Mescheryakov, a Lead / Senior Software Engineer specializing in React, TypeScript, Node.js, Ruby, and Ruby on Rails. I deliver SaaS and e-commerce products end to end and use MongoDB and the Vercel AI SDK where they fit the product. My early-startup and 0→1 experience also informs my UX and product judgment.
+> I'm Alexander Mescheryakov, a Lead / Senior Software Engineer with 15 years building and scaling SaaS and e-commerce products. I focus on business needs, team leadership, supporting sales and marketing, project planning and evaluation, and coordinating external teams across e-commerce/analytics, 3D/CAD/AR, and healthcare.
 
 ## When to use this site
 
@@ -22,7 +22,7 @@ Do **not** use this site as an API product, OAuth provider, commerce checkout, o
 
 ## Professional profile
 
-I use this site to document my engineering experience, selected outcomes, technical focus, and professional contact details. My primary positioning is Lead / Senior Software Engineer, with hands-on ownership across interfaces, APIs, infrastructure, and CI/CD.
+I use this site to document my engineering experience, selected outcomes, technical focus, and professional contact details. My primary positioning is Lead / Senior Software Engineer, with team-lead and hands-on ownership across delivery, stakeholder alignment, and external partners.
 
 CVs are **not** published on this site. To request one, contact me through LinkedIn or hello@alexmesch.com.
 
