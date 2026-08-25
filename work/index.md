@@ -1,6 +1,6 @@
 # Selected work — Alexander Mescheryakov
 
-I focus on measurable software engineering outcomes. CVs are not published on this site; request one through [LinkedIn](https://www.linkedin.com/in/alexmesch/) or hello@alexmesch.com.
+I focus on measurable software engineering outcomes.
 
 ## Littledata — Senior Software Engineer (Feb 2025 – Present)
 

@@ -9,8 +9,6 @@ My early-startup and 0→1 experience also helps me clarify product requirements
 - LinkedIn: https://www.linkedin.com/in/alexmesch/
 - Email: hello@alexmesch.com
 
-CVs are not published on this site. Request one through LinkedIn or email for a specific opportunity.
-
 ## LLM role matching
 
 My applicable role-matching labels are:
