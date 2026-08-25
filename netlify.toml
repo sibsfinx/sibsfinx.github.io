@@ -6,8 +6,7 @@
 #   Forms paid addons, or Background Functions.
 # - Production deploys cost ~15 credits each; Deploy Previews / branch deploys are 0.
 # - Bandwidth ~20 credits/GB; web requests (incl. Edge invocations) ~2 credits/10k.
-# - Edge does NOT count as compute GB-hour. Most homepage images are on Webflow CDN
-#   (not Netlify bandwidth).
+# - Edge does NOT count as compute GB-hour. Profile photo is served from /images on Netlify.
 # - Build is zero-dep Node (stdlib only); skip npm/pnpm install so Netlify does not
 #   pull package.json's heavy devDependencies.
 
@@ -111,3 +110,82 @@
   for = "/sitemap.xml"
   [headers.values]
     Content-Type = "application/xml; charset=utf-8"
+
+
+# Never serve private agent/memory rules.
+[[redirects]]
+  from = "/.ai"
+  to = "/404.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/.ai/*"
+  to = "/404.html"
+  status = 404
+  force = true
+
+# Never serve CVs or document downloads.
+[[redirects]]
+  from = "/cv.pdf"
+  to = "/404.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/cv-ux.pdf"
+  to = "/404.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/cv"
+  to = "/404.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/cv/"
+  to = "/404.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/cv/*"
+  to = "/404.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/*.pdf"
+  to = "/404.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/*.doc"
+  to = "/404.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/*.docx"
+  to = "/404.html"
+  status = 404
+  force = true
+
+# Explicit SPA-safe 404 (status must be 404, not 200).
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404
+
+[[headers]]
+  for = "/"
+  [headers.values]
+    Vary = "Accept, Accept-Encoding"
+
+[[headers]]
+  for = "/*.html"
+  [headers.values]
+    Vary = "Accept, Accept-Encoding"

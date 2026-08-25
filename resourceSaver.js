@@ -13,7 +13,7 @@ class MyResourceSaver extends ResourceSaver {
     //console.log(res.getText());
     let text = resource.getText();
     let $ = cheerio.load(text);
-    //$(config.webflowBadgeClass).remove();
+    //$(config.siteBadgeClass).remove();
     let out = $('body').append(script);
     console.log(out.html());
     resource.setText(out.html());

@@ -1,0 +1,25 @@
+# GitHub Pages (Jekyll): keep private agent rules and CVs off the public site.
+exclude:
+  - .ai
+  - .cursor
+  - .netlify
+  - node_modules
+  - package
+  - src
+  - scripts
+  - workers
+  - tmp
+  - dist
+  - netlify
+  - pnpm-lock.yaml
+  - package.json
+  - tsconfig.json
+  - wrangler.toml
+  - Makefile
+  - "*.pdf"
+  - "*.doc"
+  - "*.docx"
+  - cv.pdf
+  - cv-ux.pdf
+  - cv.md
+  - cv

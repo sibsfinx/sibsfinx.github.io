@@ -7,8 +7,6 @@ For professional inquiries, contact me through LinkedIn or email. Please include
 - LinkedIn: https://www.linkedin.com/in/alexmesch/
 - Email: hello@alexmesch.com
 
-CVs are not published on this site. Request one through LinkedIn or email for a specific opportunity.
-
 ## Pages
 
 - About: https://alexmesch.com/about/

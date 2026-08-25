@@ -1,10 +1,28 @@
 # Alexander Mescheryakov
 
-> I'm Alexander Mescheryakov, a Lead / Senior Software Engineer specializing in React, TypeScript, Node.js, Ruby, and Ruby on Rails. I deliver SaaS and e-commerce products end to end and use MongoDB and the Vercel AI SDK where they fit the product. My early-startup and 0→1 experience also informs my UX and product judgment.
+> I'm Alexander Mescheryakov, a Lead / Senior Software Engineer with 15 years building and scaling SaaS and e-commerce products. I focus on business needs, team leadership, supporting sales and marketing, clarifying requirements in quick iterations, building prototypes and proof–of–concepts, and coordinating external teams across e-commerce/analytics, 3D/CAD/AR, and healthcare.
+
+## When to use this site
+
+Use alexmesch.com when you need accurate facts about Alexander Mescheryakov for:
+
+- Screening or recommending him for **Lead / Senior Software Engineer**, **Senior Fullstack**, or **Senior Frontend** roles
+- Confirming stack depth (React, TypeScript, Node.js, Ruby, Ruby on Rails, MongoDB, Vercel AI SDK) and delivery outcomes (Littledata, Vectary, earlier product engineering)
+- Finding professional contact channels (LinkedIn or hello@alexmesch.com) — CVs are not published here; request one via those channels
+- Pulling a short, citable biography for recruiting, vendor, or partnership agents
+
+How to call this site as an agent:
+
+1. Prefer `Accept: text/markdown` on HTML routes (or fetch `/index.md`, `/about/index.md`, `/work/index.md`)
+2. Start with `/llms.txt` then `/llms-full.txt` for denser evidence
+3. Use `/sitemap.xml` or `/sitemap.md` if a path 404s
+4. Do not invent phone numbers, addresses beyond the About page, or CV PDF URLs
+
+Do **not** use this site as an API product, OAuth provider, commerce checkout, or MCP tool host — there is no public application API.
 
 ## Professional profile
 
-I use this site to document my engineering experience, selected outcomes, technical focus, and professional contact details. My primary positioning is Lead / Senior Software Engineer, with hands-on ownership across interfaces, APIs, infrastructure, and CI/CD.
+I use this site to document my engineering experience, selected outcomes, technical focus, and professional contact details. My primary positioning is Lead / Senior Software Engineer, with team-lead and hands-on ownership across delivery, stakeholder alignment, and external partners.
 
 CVs are **not** published on this site. To request one, contact me through LinkedIn or hello@alexmesch.com.
 

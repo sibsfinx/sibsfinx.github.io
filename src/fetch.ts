@@ -11,6 +11,7 @@ export const config = {
 };
 
 const websiteProtocol = "https";
+/** Historical export host used by the optional scrape tooling (not the live site). */
 export const websiteHostname = "octobear.webflow.io";
 // should be exact domain for correct moving/renaming
 export const assetHostnames = ["assets.website-files.com", "uploads-ssl.webflow.com"];
@@ -22,7 +23,7 @@ const buildUrlFromPath = (path: string) => `${websiteProtocol}://${websiteHostna
 // additional hostnames for asset urls, etc.
 const allowedHosts = [
     websiteHostname,
-    // webflow assets
+    // legacy CDN asset hosts from the historical export
     ...assetHostnames
 ];
 

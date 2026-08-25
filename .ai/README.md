@@ -2,4 +2,4 @@
 
 Primary rules: `.ai/rules/BASE.md`. Also see root `AGENTS.md` for public agent guidance.
 
-Visual source of truth is the live homepage Webflow export (white canvas, cover layout, `social-link--grid`), not alternate marketing themes.
+Visual source of truth is the homepage cover layout (white canvas, `social-link--grid`), not alternate marketing themes.

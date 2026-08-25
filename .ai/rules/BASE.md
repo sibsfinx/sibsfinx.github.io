@@ -2,20 +2,25 @@
 
 ## Visual style (non-negotiable)
 
-- Match the **homepage Webflow look 100%** on every HTML page (home, about, work, contact, privacy, 404).
-- Source of truth: live alexmesch.com / root `index.html` + CDN CSS  
-  `octobear.webflow.*.css` (white background `#fff`, black type, `#30f` link hover, Gira Sans via Adobe Fonts kit `wma7yvn`).
+- Match the **homepage cover layout 100%** on every HTML page (home, about, work, contact, privacy, 404).
+- Source of truth: live alexmesch.com / root `index.html` + local `css/layout.css` + `site.css` (white background `#fff`, black type, `#30f` link hover, Gira Sans via Adobe Fonts kit `wma7yvn`).
+- Homepage cover `.app-cover--blank` uses **`height: auto`** with **`min-height: 50vh`** so the title can grow without overlapping prose below. Subpages use `subpage-cover` the same way.
+- Left copy sits in `.cover-title-wrap` (`width: 100%` so the column/nav stay put). Cap text in **em**: home display H1 `30em`; subpage title + `.subpage-prose` `34em` (body-proportional). Do not reuse home’s `30em` on subpages.
 - Reuse homepage structure and classes: `app-container--blank`, `app-cover--blank`, `cover-title`, `font-space`, `social-link--grid`, `w-row` / `w-col`, photo when appropriate.
 - Subpages may use `subpage-cover` + `subpage-prose` in `site.css` **only** for height/prose sizing. No new visual theme.
 - **Do not** invent alternate UI: cream/paper backgrounds, serif “editorial” stacks, custom `.site-nav` bars, card layouts, purple gradients, or dashboard chrome.
 - Keep social label spelling parity with live when unsure (`Github` / `Linkedin` on older exports); newer GitHub/LinkedIn/Email labels are OK if already on the branch.
+
+## Homepage agent content
+
+Homepage must include a **visible** `<main class="home-main">` / `.home-prose` summary (≥500 characters of real text in raw HTML). Do not put the only biography in `aria-hidden` or `display:none` blocks — AI crawlers discount that.
 
 ## Homepage headline
 
 Canonical H1 (do not “improve” grammar or rewrite):
 
 Alexander Mescheryakov,
-a AI–native product engineer with fullstack, engineering management and product experience, building scalable systems from 0 to 1 and delivering end–to–end
+an AI–native product engineer with fullstack, engineering management and product experience, building scalable systems from 0 to 1 and delivering end–to–end
 
 ## Subpage heading crumb
 
@@ -34,7 +39,9 @@ No Home, Email, Contact, or Privacy in that column (Contact/Privacy via page con
 - First person; Lead / Senior Software Engineer (React, TypeScript, Node.js, Ruby, Ruby on Rails, MongoDB, Vercel AI SDK).
 - UX/product is complementary early-startup / 0→1 experience, not a designer pitch.
 - Contact: LinkedIn `https://www.linkedin.com/in/alexmesch/` **or** `hello@alexmesch.com` (on `/contact` and in body copy). Never strip email from contact/privacy prose.
-- No published CV PDFs; no phone; no legal entities; Do not label Vectary as US.
+- No published CVs (PDF, MD, DOC/DOCX, or `/cv*` paths); no phone; no legal entities; Do not label Vectary as US.
+- Never publish place names **Cheboksary** / **Cheboxary**, or company name **Brandymint**.
+- **Do not name** Wecudos, SlidePresenter, Brandymint, or Flow Health. If needed, describe the work/achievement without those company names.
 - `/about` copy source of truth is the LinkedIn About text (including Belgrade / timezone-flexible and open-to-work lines). Do not rewrite it into a softer bio.
 - Do not invent additional residence details beyond what that LinkedIn About states.
 - Do not reintroduce nickname prose (“also known as sibsfinx”).
@@ -56,8 +63,13 @@ No Yandex.Metrika. Do not embed Metrika or any other first-party analytics count
 
 ## Background
 
-Canvas must stay solid white (`#fff`) on every breakpoint. Override Webflow mobile `#eee` cover gradients via `site.css`; never ship gray/cream page backgrounds.
+Canvas must stay solid white (`#fff`) on every breakpoint. Override legacy mobile `#eee` cover gradients via `site.css`; never ship gray/cream page backgrounds.
 
 ## About page
 
 Use the LinkedIn About content verbatim (structured into paragraphs + Stack + Skills). Keep site contact footer: LinkedIn or hello@alexmesch.com.
+
+## Private `.ai/` tree
+
+`.ai/` is for local/agent rules only. It must **never** be copied into `dist/` or served on alexmesch.com. `scripts/prepare-netlify.mjs` allowlists publish files and deletes `.ai` from `dist`; Netlify force-404s `/.ai/*`.
+
