@@ -13,7 +13,9 @@
 
 ## Homepage agent content
 
-Homepage must include a **visible** `<main class="home-main">` / `.home-prose` summary (≥500 characters of real text in raw HTML). Do not put the only biography in `aria-hidden` or `display:none` blocks — AI crawlers discount that.
+Homepage must include a **visible** `<main class="home-main">` / `.home-prose` summary (≥500 characters of real text in raw HTML) with a clear heading hierarchy (**H1** cover title plus **H2** sections such as Selected work and Contact). Do not put the only biography in `aria-hidden` or `display:none` blocks — AI crawlers discount that.
+Keep brand discoverability signals: `alexmesch.com` in `<title>` / `og:site_name`, profile image `alt="Alexander Mescheryakov"`, and at least one visible mention of **alexmesch.com** in homepage prose.
+JSON-LD `@graph` must include `Person`, personal-brand `Organization` (with `contactPoint` email + `PostalAddress` for Belgrade only — no phone, no invented street), and `WebSite`.
 
 ## Homepage headline
 
