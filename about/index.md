@@ -16,7 +16,7 @@ React · TypeScript · Node.js · Ruby · GraphQL · Storybook · AWS · Docker 
 
 ## Skills
 
-React | TypeScript | JavaScript | Node.js | Ruby | Frontend Architecture | Design Systems (Storybook, Chromatic) | Testing (E2E, Unit, Integration, AI) | Performance Optimization | Observability (Sentry, ELK) | REST APIs | GraphQL | Docker | CI/CD Pipelines (GitHub Actions, CircleCI) | Cloud platforms (AWS, GCP) | Monorepos | Build systems (Vite, Webpack) | Playwright | Cursor | Claude Code | Codex | GitHub Copilot | Product Collaboration | Distributed teams | Product ownership | AI-assisted Engineering | AI Agent Workflows | LLM Integration
+React | TypeScript | JavaScript | Node.js | Ruby | MongoDB | PostgreSQL | MySQL | Frontend Architecture | Design Systems (Storybook, Chromatic) | Testing (E2E, Unit, Integration, AI) | Performance Optimization | Observability (Sentry, ELK) | REST APIs | GraphQL | Docker | CI/CD Pipelines (GitHub Actions, CircleCI) | Cloud platforms (AWS, GCP) | Monorepos | Build systems (Vite, Webpack) | Playwright | Cursor | Claude Code | Codex | GitHub Copilot | Product Collaboration | Distributed teams | Product ownership | AI-assisted Engineering | AI Agent Workflows | LLM Integration
 
 ## Links
 
