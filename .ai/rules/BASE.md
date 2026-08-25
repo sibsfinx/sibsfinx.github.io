@@ -65,3 +65,8 @@ Canvas must stay solid white (`#fff`) on every breakpoint. Override Webflow mobi
 ## About page
 
 Use the LinkedIn About content verbatim (structured into paragraphs + Stack + Skills). Keep site contact footer: LinkedIn or hello@alexmesch.com.
+
+## Private `.ai/` tree
+
+`.ai/` is for local/agent rules only. It must **never** be copied into `dist/` or served on alexmesch.com. `scripts/prepare-netlify.mjs` allowlists publish files and deletes `.ai` from `dist`; Netlify force-404s `/.ai/*`.
+

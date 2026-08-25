@@ -35,6 +35,8 @@ function stripTags(html) {
 // --- Local file checks ---
 const indexHtml = fs.readFileSync(path.join(root, "index.html"), "utf8");
 const visible = stripTags(indexHtml);
+ok("dist/.ai is not published", !fs.existsSync(path.join(root, "dist", ".ai")));
+
 ok("homepage has H1", /<h1[\s>]/i.test(indexHtml));
 ok("homepage visible text >= 500 chars", visible.length >= 500, `got ${visible.length}`);
 ok("homepage has no aria-hidden agent dump", !/class=["']agent-seo["']/.test(indexHtml));

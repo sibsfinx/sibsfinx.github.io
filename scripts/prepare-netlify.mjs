@@ -47,8 +47,20 @@ function copyDir(rel) {
   fs.cpSync(src, path.join(out, rel), { recursive: true });
 }
 
+/** Never publish private agent/memory rules. */
+const blocked = [".ai", ".cursor", ".git", "node_modules", "package", "src", "workers", "scripts", "tmp"];
+
 rmrf(out);
 fs.mkdirSync(out, { recursive: true });
 for (const f of files) copyFile(f);
 for (const d of dirs) copyDir(d);
+
+// Belt-and-suspenders: remove any blocked paths if they appear in dist/.
+for (const name of blocked) {
+  rmrf(path.join(out, name));
+}
+if (fs.existsSync(path.join(out, ".ai"))) {
+  throw new Error("Refusing to publish: dist/.ai still exists after prepare");
+}
+
 console.log("Prepared Netlify dist/ with", files.length, "files and", dirs.length, "dirs");

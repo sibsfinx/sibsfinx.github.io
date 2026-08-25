@@ -1,0 +1,18 @@
+# GitHub Pages (Jekyll): keep private agent rules off the public site.
+exclude:
+  - .ai
+  - .cursor
+  - .netlify
+  - node_modules
+  - package
+  - src
+  - scripts
+  - workers
+  - tmp
+  - dist
+  - netlify
+  - pnpm-lock.yaml
+  - package.json
+  - tsconfig.json
+  - wrangler.toml
+  - Makefile
