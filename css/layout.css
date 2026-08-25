@@ -2277,7 +2277,7 @@ textarea.w-input, textarea.w-select {
 .app-container-block {
   padding-left: 30px;
   padding-right: 30px;
-  font-family: Lato, sans-serif;
+  font-family: "gira-sans", "Gira Sans", sans-serif;
 }
 
 .app-container-block.font-plex {

@@ -89,8 +89,23 @@ h1.cover-title a.page-crumb:hover {
   max-width: 40em;
 }
 
-/* Home H1 only — constrain title width without shrinking the left column / nav. */
+/*
+  Cover row sits in a flex parent (.flex-container). Without an explicit width the
+  flex item shrink-wraps to the H1, pulling the right nav next to the title.
+  Keep the cover block full-width; let the title wrap eat the left column; cap H1.
+*/
+.app-cover--blank .flex-container {
+  width: 100%;
+}
+.app-cover--blank > .app-container-block > .flex-container > .flex-cover-block--wide {
+  flex: 1 1 auto;
+  width: 100%;
+  min-width: 0;
+}
 .cover-title-wrap {
+  width: 100%;
+}
+.cover-title-wrap > .cover-title {
   max-width: 30em;
 }
 
