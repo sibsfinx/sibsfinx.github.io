@@ -1,5 +1,11 @@
 User-agent: *
 Allow: /
+Disallow: /cv
+Disallow: /cv.pdf
+Disallow: /cv-ux.pdf
+Disallow: /*.pdf$
+Disallow: /*.doc$
+Disallow: /*.docx$
 
 # Answer-time AI fetchers
 User-agent: ChatGPT-User

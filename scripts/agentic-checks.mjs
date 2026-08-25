@@ -69,6 +69,64 @@ ok(
   "netlify.md headers include Vary Accept",
   /for = "\/\*\.md"[\s\S]*?Vary = "Accept, Accept-Encoding"/.test(toml),
 );
+ok("netlify force-404s CV pdfs", /from = "\/cv\.pdf"[\s\S]*?status = 404/.test(toml));
+ok("netlify force-404s *.pdf", /from = "\/\*\.pdf"[\s\S]*?status = 404/.test(toml));
+
+// Forbidden public mentions + no CV artifacts in publish tree
+const forbidden = /Cheboksary|Cheboxary|Brandymint/i;
+const publicRoots = [
+  "index.html",
+  "index.md",
+  "404.html",
+  "404.md",
+  "AGENTS.md",
+  "llms.txt",
+  "llms-full.txt",
+  "robots.txt",
+  "sitemap.xml",
+  "sitemap.md",
+  "site.css",
+  "about",
+  "work",
+  "contact",
+  "privacy",
+];
+function walkFiles(rel, acc = []) {
+  const full = path.join(root, rel);
+  if (!fs.existsSync(full)) return acc;
+  const st = fs.statSync(full);
+  if (st.isDirectory()) {
+    for (const name of fs.readdirSync(full)) {
+      if (name === "node_modules" || name === ".git") continue;
+      walkFiles(path.join(rel, name), acc);
+    }
+  } else if (/\.(html|md|txt|xml|css|js|mjs|toml|yml)$/i.test(rel)) {
+    acc.push(rel);
+  }
+  return acc;
+}
+const publicFiles = publicRoots.flatMap((r) => walkFiles(r));
+const forbiddenHits = [];
+for (const rel of publicFiles) {
+  const text = fs.readFileSync(path.join(root, rel), "utf8");
+  if (forbidden.test(text)) forbiddenHits.push(rel);
+}
+ok("public site has no Cheboksary/Cheboxary/Brandymint", forbiddenHits.length === 0, forbiddenHits.join(", "));
+
+const cvExt = /\.(pdf|doc|docx)$/i;
+const cvName = /(^|\/)cv([-_.]|$)/i;
+function findCv(dir, acc = []) {
+  if (!fs.existsSync(dir)) return acc;
+  for (const ent of fs.readdirSync(dir, { withFileTypes: true })) {
+    const full = path.join(dir, ent.name);
+    if (ent.isDirectory()) findCv(full, acc);
+    else if (cvExt.test(ent.name) || cvName.test(ent.name)) acc.push(path.relative(root, full));
+  }
+  return acc;
+}
+const rootCvs = findCv(root).filter((p) => !p.startsWith("node_modules/") && !p.startsWith(".git/"));
+// package/ is unpublished archive — still must not keep CV binaries in-repo for this policy
+ok("repo has no CV pdf/doc files", rootCvs.length === 0, rootCvs.join(", "));
 
 // --- Optional live probes ---
 async function live() {

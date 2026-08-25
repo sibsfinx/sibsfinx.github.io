@@ -1,4 +1,4 @@
-# GitHub Pages (Jekyll): keep private agent rules off the public site.
+# GitHub Pages (Jekyll): keep private agent rules and CVs off the public site.
 exclude:
   - .ai
   - .cursor
@@ -16,3 +16,10 @@ exclude:
   - tsconfig.json
   - wrangler.toml
   - Makefile
+  - "*.pdf"
+  - "*.doc"
+  - "*.docx"
+  - cv.pdf
+  - cv-ux.pdf
+  - cv.md
+  - cv

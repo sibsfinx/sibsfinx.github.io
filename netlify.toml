@@ -125,6 +125,55 @@
   status = 404
   force = true
 
+# Never serve CVs or document downloads.
+[[redirects]]
+  from = "/cv.pdf"
+  to = "/404.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/cv-ux.pdf"
+  to = "/404.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/cv"
+  to = "/404.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/cv/"
+  to = "/404.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/cv/*"
+  to = "/404.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/*.pdf"
+  to = "/404.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/*.doc"
+  to = "/404.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/*.docx"
+  to = "/404.html"
+  status = 404
+  force = true
+
 # Explicit SPA-safe 404 (status must be 404, not 200).
 [[redirects]]
   from = "/*"

@@ -50,6 +50,9 @@ function copyDir(rel) {
 /** Never publish private agent/memory rules. */
 const blocked = [".ai", ".cursor", ".git", "node_modules", "package", "src", "workers", "scripts", "tmp"];
 
+/** CV / document extensions that must never ship. */
+const blockedExt = new Set([".pdf", ".doc", ".docx"]);
+
 rmrf(out);
 fs.mkdirSync(out, { recursive: true });
 for (const f of files) copyFile(f);
@@ -62,5 +65,51 @@ for (const name of blocked) {
 if (fs.existsSync(path.join(out, ".ai"))) {
   throw new Error("Refusing to publish: dist/.ai still exists after prepare");
 }
+
+/** Strip any CV/document leftovers and fail if any remain. */
+function assertNoCvOrDocs(dir) {
+  const hits = [];
+  function walk(p) {
+    for (const ent of fs.readdirSync(p, { withFileTypes: true })) {
+      const full = path.join(p, ent.name);
+      if (ent.isDirectory()) {
+        walk(full);
+        continue;
+      }
+      const lower = ent.name.toLowerCase();
+      const ext = path.extname(lower);
+      if (blockedExt.has(ext) || /^cv([-_.]|$)/i.test(ent.name)) {
+        hits.push(path.relative(out, full));
+        fs.rmSync(full, { force: true });
+      }
+    }
+  }
+  if (fs.existsSync(dir)) walk(dir);
+  // Re-scan after deletes
+  const remaining = [];
+  function rescan(p) {
+    for (const ent of fs.readdirSync(p, { withFileTypes: true })) {
+      const full = path.join(p, ent.name);
+      if (ent.isDirectory()) {
+        rescan(full);
+        continue;
+      }
+      const lower = ent.name.toLowerCase();
+      const ext = path.extname(lower);
+      if (blockedExt.has(ext) || /^cv([-_.]|$)/i.test(ent.name)) {
+        remaining.push(path.relative(out, full));
+      }
+    }
+  }
+  if (fs.existsSync(dir)) rescan(dir);
+  if (remaining.length) {
+    throw new Error("Refusing to publish CV/docs in dist: " + remaining.join(", "));
+  }
+  if (hits.length) {
+    console.warn("Stripped CV/docs from dist:", hits.join(", "));
+  }
+}
+
+assertNoCvOrDocs(out);
 
 console.log("Prepared Netlify dist/ with", files.length, "files and", dirs.length, "dirs");

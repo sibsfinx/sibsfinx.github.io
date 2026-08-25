@@ -39,7 +39,9 @@ No Home, Email, Contact, or Privacy in that column (Contact/Privacy via page con
 - First person; Lead / Senior Software Engineer (React, TypeScript, Node.js, Ruby, Ruby on Rails, MongoDB, Vercel AI SDK).
 - UX/product is complementary early-startup / 0→1 experience, not a designer pitch.
 - Contact: LinkedIn `https://www.linkedin.com/in/alexmesch/` **or** `hello@alexmesch.com` (on `/contact` and in body copy). Never strip email from contact/privacy prose.
-- No published CV PDFs; no phone; no legal entities; Do not label Vectary as US.
+- No published CVs (PDF, MD, DOC/DOCX, or `/cv*` paths); no phone; no legal entities; Do not label Vectary as US.
+- Never publish place names **Cheboksary** / **Cheboxary**, or company name **Brandymint**.
+- **Do not name** Wecudos, SlidePresenter, Brandymint, or Flow Health. If needed, describe the work/achievement without those company names.
 - `/about` copy source of truth is the LinkedIn About text (including Belgrade / timezone-flexible and open-to-work lines). Do not rewrite it into a softer bio.
 - Do not invent additional residence details beyond what that LinkedIn About states.
 - Do not reintroduce nickname prose (“also known as sibsfinx”).

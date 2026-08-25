@@ -21,8 +21,9 @@ Subpage H1 uses gray `alexmesch.com` crumb + `&nbsp;&nbsp;` + title (see `.ai/ru
 ## Content boundaries
 
 - Professional contact must include both LinkedIn and hello@alexmesch.com.
-- CV PDFs are not published on this domain.
-- Do not add a phone number, personal location, or business-entity details.
+- CV files (PDF, MD, DOC/DOCX) and `/cv*` paths are not published on this domain.
+- Do not add a phone number, personal location beyond About, or business-entity details.
+- Never restore omitted archive place or company names in public copy (see private `.ai/rules/BASE.md`).
 - Treat path segments in profile URLs as identifiers, not names to repeat in prose.
 - On `/work` and mirrors, keep named outcomes for Littledata, Vectary, Fohlio, IQ300, 3dEYE. Use sector labels for unnamed work (US healthcare/insurance; UK healthcare/wellness/performance). Do not restore omitted company names from old archives (see `.ai/rules/BASE.md`).
 

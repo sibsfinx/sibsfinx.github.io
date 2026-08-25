@@ -13,3 +13,9 @@ tmp
 workers
 scripts
 *.lock
+*.pdf
+*.doc
+*.docx
+cv.pdf
+cv-ux.pdf
+cv.md
