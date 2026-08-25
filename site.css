@@ -20,7 +20,6 @@
 
 .subpage-prose {
   margin-top: 0.5em;
-  max-width: 34em;
   font-size: 15px;
   font-weight: 400;
   line-height: 1.8em;
@@ -91,8 +90,9 @@ h1.cover-title a.page-crumb:hover {
 
 /*
   Cover row sits in a flex parent (.flex-container). Without an explicit width the
-  flex item shrink-wraps to the H1, pulling the right nav next to the title.
-  Keep the cover block full-width; let the title wrap eat the left column; cap H1.
+  flex item shrink-wraps to the copy, pulling the right nav inward.
+  Keep the cover block full-width; let .cover-title-wrap eat the left column;
+  cap text measure in em relative to each text style (display vs body).
 */
 .app-cover--blank .flex-container {
   width: 100%;
@@ -105,8 +105,14 @@ h1.cover-title a.page-crumb:hover {
 .cover-title-wrap {
   width: 100%;
 }
-.cover-title-wrap > .cover-title {
+/* Home display H1 (~28px) — long multi-line title */
+.app-cover--blank:not(.subpage-cover) .cover-title-wrap > .cover-title {
   max-width: 30em;
+}
+/* Subpage crumb title + body copy (~15px prose) — body-proportional measure */
+.subpage-cover .cover-title-wrap > .cover-title,
+.subpage-cover .cover-title-wrap > .subpage-prose {
+  max-width: 34em;
 }
 
 /* 404 machine-readable recovery block for agents scraping HTML */
