@@ -4,7 +4,7 @@
 
 - Match the **homepage cover layout 100%** on every HTML page (home, about, work, contact, privacy, 404).
 - Source of truth: live alexmesch.com / root `index.html` + local `css/layout.css` + `site.css` (white background `#fff`, black type, `#30f` link hover, Gira Sans via Adobe Fonts kit `wma7yvn`).
-- Homepage cover `.app-cover--blank` is **50vh** (not taller). Subpages use `subpage-cover` with `height: auto` and `min-height: 50vh`.
+- Homepage cover `.app-cover--blank` uses **`height: auto`** with **`min-height: 50vh`** so the title can grow without overlapping prose below. Subpages use `subpage-cover` the same way.
 - Reuse homepage structure and classes: `app-container--blank`, `app-cover--blank`, `cover-title`, `font-space`, `social-link--grid`, `w-row` / `w-col`, photo when appropriate.
 - Subpages may use `subpage-cover` + `subpage-prose` in `site.css` **only** for height/prose sizing. No new visual theme.
 - **Do not** invent alternate UI: cream/paper backgrounds, serif “editorial” stacks, custom `.site-nav` bars, card layouts, purple gradients, or dashboard chrome.
